@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"w-first","type":"file","file":"02 概念/先自由后财富.md","x":0,"y":0,"width":440,"height":520,"color":"#fbbf24"},
+		{"id":"life-exp","type":"file","file":"02 概念/体验大于终局.md","x":520,"y":0,"width":440,"height":520,"color":"#f472b6"},
+		{"id":"life-view","type":"file","file":"02 概念/换视角与榜样.md","x":1040,"y":0,"width":440,"height":520,"color":"#f472b6"},
+		{"id":"life-create","type":"file","file":"02 概念/多创造，少消费.md","x":1560,"y":0,"width":440,"height":520,"color":"#f472b6"},
+		{"id":"cog-os","type":"file","file":"02 概念/认知操作系统.md","x":2080,"y":0,"width":440,"height":520,"color":"#2dd4bf"},
+		{"id":"explain","type":"text","text":"# 体验与创造循环\n\n有选择权—扩大体验—换视角—转化为创造—反哺认知。\n\n这是一条解释性阅读路径。反馈可能中断或反转，不能将箭头理解为必然因果。","x":0,"y":-360,"width":2600,"height":280}
+	],
+	"edges":[
+		{"id":"edge-0","fromNode":"w-first","fromSide":"bottom","toNode":"life-exp","toSide":"top","toEnd":"arrow","label":"支撑关系 · 阅读路径","color":"#8391a5"},
+		{"id":"edge-1","fromNode":"life-exp","fromSide":"bottom","toNode":"life-view","toSide":"top","toEnd":"arrow","label":"支撑关系 · 阅读路径","color":"#8391a5"},
+		{"id":"edge-2","fromNode":"life-view","fromSide":"bottom","toNode":"life-create","toSide":"top","toEnd":"arrow","label":"支撑关系 · 阅读路径","color":"#8391a5"},
+		{"id":"edge-3","fromNode":"life-create","fromSide":"bottom","toNode":"cog-os","toSide":"top","toEnd":"arrow","label":"支撑关系 · 阅读路径","color":"#8391a5"}
+	]
+}

@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"health","type":"file","file":"01 主题/健康与复利.md","x":500,"y":-430,"width":940,"height":340,"color":"#4ade80"},
+		{"id":"h-server","type":"file","file":"02 概念/碳基服务器.md","x":0,"y":0,"width":430,"height":450,"color":"#4ade80"},
+		{"id":"h-logs","type":"file","file":"02 概念/量化生活.md","x":500,"y":0,"width":430,"height":450,"color":"#4ade80"},
+		{"id":"h-prevent","type":"file","file":"02 概念/主动健康管理.md","x":1000,"y":0,"width":430,"height":450,"color":"#4ade80"},
+		{"id":"h-long","type":"file","file":"02 概念/长期行动能力.md","x":1500,"y":0,"width":430,"height":450,"color":"#4ade80"},
+		{"id":"body","type":"file","file":"02 概念/薄肌与身体形象.md","x":0,"y":560,"width":430,"height":450,"color":"#4ade80"},
+		{"id":"young","type":"file","file":"02 概念/年轻、时间与寿命优势.md","x":500,"y":560,"width":430,"height":450,"color":"#4ade80"}
+	],
+	"edges":[
+		{"id":"edge-27","fromNode":"health","fromSide":"bottom","toNode":"h-server","toSide":"top","toEnd":"arrow","label":"主题归属 · 具体观点","color":"#8391a5"},
+		{"id":"edge-28","fromNode":"health","fromSide":"bottom","toNode":"h-logs","toSide":"top","toEnd":"arrow","label":"主题归属 · 具体观点","color":"#8391a5"},
+		{"id":"edge-29","fromNode":"health","fromSide":"bottom","toNode":"h-prevent","toSide":"top","toEnd":"arrow","label":"主题归属 · 具体观点","color":"#8391a5"},
+		{"id":"edge-30","fromNode":"health","fromSide":"bottom","toNode":"h-long","toSide":"top","toEnd":"arrow","label":"主题归属 · 具体观点","color":"#8391a5"},
+		{"id":"edge-52","fromNode":"h-logs","fromSide":"bottom","toNode":"h-prevent","toSide":"top","toEnd":"arrow","label":"因果推论（未验证） · 数据支持管理","color":"#8391a5"},
+		{"id":"edge-53","fromNode":"h-prevent","fromSide":"bottom","toNode":"h-long","toSide":"top","toEnd":"arrow","label":"支撑关系 · 改善持续性","color":"#8391a5"},
+		{"id":"edge-66","fromNode":"body","fromSide":"bottom","toNode":"h-server","toSide":"top","toEnd":"arrow","label":"支撑关系 · 身体目标","color":"#8391a5"},
+		{"id":"edge-73","fromNode":"young","fromSide":"bottom","toNode":"h-long","toSide":"top","toEnd":"arrow","label":"支撑关系 · 更多积累时间","color":"#8391a5"},
+		{"id":"edge-117","fromNode":"health","fromSide":"bottom","toNode":"body","toSide":"top","toEnd":"arrow","label":"主题归属 · 概念展开","color":"#8391a5"},
+		{"id":"edge-123","fromNode":"health","fromSide":"bottom","toNode":"young","toSide":"top","toEnd":"arrow","label":"主题归属 · 概念展开","color":"#8391a5"}
+	]
+}

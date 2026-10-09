@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"core","type":"file","file":"00 导航/持续更新的人生系统.md","x":500,"y":-480,"width":700,"height":350,"color":"#e2e8f0"},
+		{"id":"cog","type":"file","file":"01 主题/认知升级.md","x":0,"y":0,"width":520,"height":420,"color":"#2dd4bf"},
+		{"id":"ai","type":"file","file":"01 主题/AI 与知识.md","x":600,"y":0,"width":520,"height":420,"color":"#a78bfa"},
+		{"id":"dec","type":"file","file":"01 主题/决策与探索.md","x":1200,"y":0,"width":520,"height":420,"color":"#60a5fa"},
+		{"id":"biz","type":"file","file":"01 主题/商业与技术.md","x":0,"y":500,"width":520,"height":420,"color":"#fb923c"},
+		{"id":"wealth","type":"file","file":"01 主题/财富与自由.md","x":600,"y":500,"width":520,"height":420,"color":"#fbbf24"},
+		{"id":"health","type":"file","file":"01 主题/健康与复利.md","x":1200,"y":500,"width":520,"height":420,"color":"#4ade80"},
+		{"id":"life","type":"file","file":"01 主题/体验与创造.md","x":0,"y":1000,"width":520,"height":420,"color":"#f472b6"},
+		{"id":"guide","type":"text","text":"# 阅读方法\n\n先打开总入口，再双击主题卡片进入详细概念。\n\n红色：边界与张力。紫色：尚需证据的假设。\n\n主题分类与知识链是整理结构，箭头不是实证因果。\n\n完整概念关系见「完整知识网络.canvas」。","x":600,"y":1000,"width":1120,"height":420}
+	],
+	"edges":[
+		{"id":"edge-0","fromNode":"core","fromSide":"bottom","toNode":"cog","toSide":"top","toEnd":"arrow","color":"#8391a5"},
+		{"id":"edge-1","fromNode":"core","fromSide":"bottom","toNode":"ai","toSide":"top","toEnd":"arrow","color":"#8391a5"},
+		{"id":"edge-2","fromNode":"core","fromSide":"bottom","toNode":"dec","toSide":"top","toEnd":"arrow","color":"#8391a5"},
+		{"id":"edge-3","fromNode":"core","fromSide":"bottom","toNode":"biz","toSide":"top","toEnd":"arrow","color":"#8391a5"},
+		{"id":"edge-4","fromNode":"core","fromSide":"bottom","toNode":"wealth","toSide":"top","toEnd":"arrow","color":"#8391a5"},
+		{"id":"edge-5","fromNode":"core","fromSide":"bottom","toNode":"health","toSide":"top","toEnd":"arrow","color":"#8391a5"},
+		{"id":"edge-6","fromNode":"core","fromSide":"bottom","toNode":"life","toSide":"top","toEnd":"arrow","color":"#8391a5"}
+	]
+}

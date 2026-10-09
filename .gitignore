@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Obsidian personal workspace state
+.obsidian/workspace*.json
+.obsidian/cache/
+.obsidian/plugins/
+.trash/
+
+# Local secrets
+.env
+.env.*
+*.pem
+*.key

@@ -1,0 +1,105 @@
+{
+  "nodes": [
+    {
+      "id": "h-logs",
+      "type": "file",
+      "file": "02 概念/量化生活.md",
+      "x": 0,
+      "y": 0,
+      "width": 440,
+      "height": 520,
+      "color": "#4ade80"
+    },
+    {
+      "id": "h-prevent",
+      "type": "file",
+      "file": "02 概念/主动健康管理.md",
+      "x": 520,
+      "y": 0,
+      "width": 440,
+      "height": 520,
+      "color": "#4ade80"
+    },
+    {
+      "id": "h-long",
+      "type": "file",
+      "file": "02 概念/长期行动能力.md",
+      "x": 1040,
+      "y": 0,
+      "width": 440,
+      "height": 520,
+      "color": "#4ade80"
+    },
+    {
+      "id": "life-exp",
+      "type": "file",
+      "file": "02 概念/体验大于终局.md",
+      "x": 1560,
+      "y": 0,
+      "width": 440,
+      "height": 520,
+      "color": "#f472b6"
+    },
+    {
+      "id": "cog-os",
+      "type": "file",
+      "file": "02 概念/认知操作系统.md",
+      "x": 2080,
+      "y": 0,
+      "width": 440,
+      "height": 520,
+      "color": "#2dd4bf"
+    },
+    {
+      "id": "explain",
+      "type": "text",
+      "text": "# 健康长期循环\n\n记录健康—主动管理—维持长期行动—获得更多体验—形成新认知。\n\n这是一条解释性阅读路径。反馈可能中断或反转，不能将箭头理解为必然因果。",
+      "x": 0,
+      "y": -360,
+      "width": 2600,
+      "height": 280
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge-0",
+      "fromNode": "h-logs",
+      "fromSide": "bottom",
+      "toNode": "h-prevent",
+      "toSide": "top",
+      "toEnd": "arrow",
+      "label": "支撑关系 · 阅读路径",
+      "color": "#8391a5"
+    },
+    {
+      "id": "edge-1",
+      "fromNode": "h-prevent",
+      "fromSide": "bottom",
+      "toNode": "h-long",
+      "toSide": "top",
+      "toEnd": "arrow",
+      "label": "支撑关系 · 阅读路径",
+      "color": "#8391a5"
+    },
+    {
+      "id": "edge-2",
+      "fromNode": "h-long",
+      "fromSide": "bottom",
+      "toNode": "life-exp",
+      "toSide": "top",
+      "toEnd": "arrow",
+      "label": "支撑关系 · 阅读路径",
+      "color": "#8391a5"
+    },
+    {
+      "id": "edge-3",
+      "fromNode": "life-exp",
+      "fromSide": "bottom",
+      "toNode": "cog-os",
+      "toSide": "top",
+      "toEnd": "arrow",
+      "label": "支撑关系 · 阅读路径",
+      "color": "#8391a5"
+    }
+  ]
+}

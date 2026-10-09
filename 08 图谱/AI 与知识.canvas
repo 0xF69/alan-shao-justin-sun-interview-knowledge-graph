@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"ai","type":"file","file":"01 主题/AI 与知识.md","x":500,"y":-430,"width":940,"height":340,"color":"#a78bfa"},
+		{"id":"ai-life","type":"file","file":"02 概念/生活 AI 化.md","x":0,"y":0,"width":430,"height":450,"color":"#a78bfa"},
+		{"id":"ai-memory","type":"file","file":"02 概念/MD 与可迁移记录.md","x":500,"y":0,"width":430,"height":450,"color":"#a78bfa"},
+		{"id":"ai-cross","type":"file","file":"02 概念/多模型交叉.md","x":1000,"y":0,"width":430,"height":450,"color":"#a78bfa"},
+		{"id":"ai-science","type":"file","file":"02 概念/科学研究加速.md","x":1500,"y":0,"width":430,"height":450,"color":"#a78bfa"},
+		{"id":"trust","type":"file","file":"02 概念/AI 信任与人类复核.md","x":0,"y":560,"width":430,"height":450,"color":"#a78bfa"},
+		{"id":"context","type":"file","file":"02 概念/上下文、记忆与训练的区别.md","x":500,"y":560,"width":430,"height":450,"color":"#a78bfa"},
+		{"id":"lowcost","type":"file","file":"02 概念/低成本起步与真实成本.md","x":1000,"y":560,"width":430,"height":450,"color":"#a78bfa"},
+		{"id":"verify","type":"file","file":"02 概念/知识获取与知识验证.md","x":1500,"y":560,"width":430,"height":450,"color":"#a78bfa"},
+		{"id":"sciencebound","type":"file","file":"02 概念/AI 科研突破的证据层级.md","x":0,"y":1120,"width":430,"height":450,"color":"#a78bfa"}
+	],
+	"edges":[
+		{"id":"edge-7","fromNode":"ai","fromSide":"bottom","toNode":"ai-life","toSide":"top","toEnd":"arrow","label":"主题归属 · 具体观点","color":"#8391a5"},
+		{"id":"edge-8","fromNode":"ai","fromSide":"bottom","toNode":"ai-memory","toSide":"top","toEnd":"arrow","label":"主题归属 · 具体观点","color":"#8391a5"},
+		{"id":"edge-9","fromNode":"ai","fromSide":"bottom","toNode":"ai-cross","toSide":"top","toEnd":"arrow","label":"主题归属 · 具体观点","color":"#8391a5"},
+		{"id":"edge-10","fromNode":"ai","fromSide":"bottom","toNode":"ai-science","toSide":"top","toEnd":"arrow","label":"主题归属 · 具体观点","color":"#8391a5"},
+		{"id":"edge-36","fromNode":"ai-life","fromSide":"bottom","toNode":"ai-memory","toSide":"top","toEnd":"arrow","label":"支撑关系 · 数据沉淀","color":"#8391a5"},
+		{"id":"edge-67","fromNode":"trust","fromSide":"bottom","toNode":"ai-cross","toSide":"top","toEnd":"arrow","label":"边界或张力 · 复核需要","color":"#ef7777"},
+		{"id":"edge-69","fromNode":"context","fromSide":"bottom","toNode":"ai-memory","toSide":"top","toEnd":"arrow","label":"支撑关系 · 区别记忆机制","color":"#8391a5"},
+		{"id":"edge-74","fromNode":"verify","fromSide":"bottom","toNode":"ai-science","toSide":"top","toEnd":"arrow","label":"边界或张力 · 科研须验证","color":"#ef7777"},
+		{"id":"edge-75","fromNode":"sciencebound","fromSide":"bottom","toNode":"verify","toSide":"top","toEnd":"arrow","label":"支撑关系 · 区分证据层级","color":"#8391a5"},
+		{"id":"edge-112","fromNode":"verify","fromSide":"bottom","toNode":"trust","toSide":"top","toEnd":"arrow","label":"支撑关系 · 可信度依赖检查","color":"#8391a5"},
+		{"id":"edge-118","fromNode":"ai","fromSide":"bottom","toNode":"trust","toSide":"top","toEnd":"arrow","label":"主题归属 · 概念展开","color":"#8391a5"},
+		{"id":"edge-119","fromNode":"ai","fromSide":"bottom","toNode":"context","toSide":"top","toEnd":"arrow","label":"主题归属 · 概念展开","color":"#8391a5"},
+		{"id":"edge-120","fromNode":"ai","fromSide":"bottom","toNode":"lowcost","toSide":"top","toEnd":"arrow","label":"主题归属 · 概念展开","color":"#8391a5"},
+		{"id":"edge-124","fromNode":"ai","fromSide":"bottom","toNode":"verify","toSide":"top","toEnd":"arrow","label":"主题归属 · 概念展开","color":"#8391a5"},
+		{"id":"edge-125","fromNode":"ai","fromSide":"bottom","toNode":"sciencebound","toSide":"top","toEnd":"arrow","label":"主题归属 · 概念展开","color":"#8391a5"}
+	]
+}

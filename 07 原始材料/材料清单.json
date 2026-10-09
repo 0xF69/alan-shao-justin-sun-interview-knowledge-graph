@@ -1,0 +1,56 @@
+[
+  {
+    "source": "%E5%AD%99%E5%AE%87%E6%99%A8_%E9%82%B5%E8%89%BE%E4%BC%A6_%E8%AE%BF%E8%B0%88%E4%B8%AD%E6%96%87%E5%85%A8%E6%96%87_%E6%97%B6%E9%97%B4%E8%BD%B4%E6%95%B4%E7%90%86.md",
+    "copy": "07 原始材料/中文全文_时间轴整理.md",
+    "sha256": "ae58864f168d400c085bff88411a044d59f6b066d8202a73c2aaee34c7d419f8",
+    "bytes": 229189
+  },
+  {
+    "source": "%E5%AD%99%E5%AE%87%E6%99%A8_%E9%82%B5%E8%89%BE%E4%BC%A6_%E8%AE%BF%E8%B0%88%E7%BB%93%E6%9E%84%E5%8C%96%E5%86%85%E5%AE%B9%E7%AC%94%E8%AE%B0.md",
+    "copy": "07 原始材料/结构化内容笔记.md",
+    "sha256": "35df50d24213a2ccdc4fce67e619a4e3930e165b336bc0b26cd67b61fb5e372d",
+    "bytes": 12235
+  },
+  {
+    "source": "已粘贴的文本.txt",
+    "copy": "07 原始材料/补充的完整深度解读.md",
+    "sha256": "9120243dbbfe99a22ed52781467db87ca0adabe50a4d6a88a31419e868c39932",
+    "bytes": 54158
+  },
+  {
+    "source": "孙宇晨访谈_交互式知识图谱.html",
+    "copy": "07 原始材料/孙宇晨访谈_交互式知识图谱.html",
+    "sha256": "e17bca15919870370e90bd20f11471eb80d421cc811084aeb2203ae38f3209f5",
+    "bytes": 34250
+  },
+  {
+    "source": "AlanShao111_字幕_中文字幕.srt",
+    "copy": "07 原始材料/AlanShao111_字幕_中文字幕.srt",
+    "sha256": "a127c1cd98bc8b2e78504f238f6fa3f4ed75c3235db8bb5f4cf94255da996ea0",
+    "bytes": 511740
+  },
+  {
+    "source": "AlanShao111_字幕_中文字幕.txt",
+    "copy": "07 原始材料/AlanShao111_字幕_中文字幕.txt",
+    "sha256": "a74f4aa9b597bca66663b47f9dc81730856980c8944bd88543c3923487a59b0e",
+    "bytes": 218295
+  },
+  {
+    "source": "AlanShao111_字幕_中文字幕_时间戳.txt",
+    "copy": "07 原始材料/AlanShao111_字幕_中文字幕_时间戳.txt",
+    "sha256": "3ca3632cb2e73c2773bf848c080f8a38edd60120df18353b8cbf3ce4bf3c17b5",
+    "bytes": 308297
+  },
+  {
+    "source": "AlanShao111_字幕_中英字幕.srt",
+    "copy": "07 原始材料/AlanShao111_字幕_中英字幕.srt",
+    "sha256": "0ccdea71029e255584ddb4d52bbef7b8cf717d31907f8454651c3b6b8ceed31a",
+    "bytes": 757423
+  },
+  {
+    "source": "AlanShao111_字幕_中英字幕.txt",
+    "copy": "07 原始材料/AlanShao111_字幕_中英字幕.txt",
+    "sha256": "dd02bee6211e3630ecfd53b4aeccac6bdc47b881a5e0f3cdd4fd5639a01cd074",
+    "bytes": 463978
+  }
+]

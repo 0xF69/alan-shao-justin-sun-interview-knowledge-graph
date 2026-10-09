@@ -1,0 +1,85 @@
+{
+  "nodes": [
+    {
+      "id": "biz-digital",
+      "type": "file",
+      "file": "02 概念/数字化与传播.md",
+      "x": 0,
+      "y": 0,
+      "width": 440,
+      "height": 520,
+      "color": "#fb923c"
+    },
+    {
+      "id": "ai-science",
+      "type": "file",
+      "file": "02 概念/科学研究加速.md",
+      "x": 520,
+      "y": 0,
+      "width": 440,
+      "height": 520,
+      "color": "#a78bfa"
+    },
+    {
+      "id": "biz-crypto",
+      "type": "file",
+      "file": "02 概念/机器可读的货币.md",
+      "x": 1040,
+      "y": 0,
+      "width": 440,
+      "height": 520,
+      "color": "#fb923c"
+    },
+    {
+      "id": "biz-agent",
+      "type": "file",
+      "file": "02 概念/AI Agent 支付.md",
+      "x": 1560,
+      "y": 0,
+      "width": 440,
+      "height": 520,
+      "color": "#fb923c"
+    },
+    {
+      "id": "explain",
+      "type": "text",
+      "text": "# 技术演进假设\n\n知识数字化、AI 进步及机器支付被嘉宾串联，但最后一段属于未来预测。\n\n这是一条解释性阅读路径。反馈可能中断或反转，不能将箭头理解为必然因果。",
+      "x": 0,
+      "y": -360,
+      "width": 2080,
+      "height": 280
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge-0",
+      "fromNode": "biz-digital",
+      "fromSide": "bottom",
+      "toNode": "ai-science",
+      "toSide": "top",
+      "toEnd": "arrow",
+      "label": "假设（需新增证据） · 阅读路径",
+      "color": "#c59fea"
+    },
+    {
+      "id": "edge-1",
+      "fromNode": "ai-science",
+      "fromSide": "bottom",
+      "toNode": "biz-crypto",
+      "toSide": "top",
+      "toEnd": "arrow",
+      "label": "假设（需新增证据） · 阅读路径",
+      "color": "#c59fea"
+    },
+    {
+      "id": "edge-2",
+      "fromNode": "biz-crypto",
+      "fromSide": "bottom",
+      "toNode": "biz-agent",
+      "toSide": "top",
+      "toEnd": "arrow",
+      "label": "假设（需新增证据） · 阅读路径",
+      "color": "#c59fea"
+    }
+  ]
+}

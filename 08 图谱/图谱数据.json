@@ -1,0 +1,2273 @@
+{
+  "nodes": [
+    {
+      "id": "core",
+      "title": "持续更新的人生系统",
+      "description": "这不是嘉宾原话中的正式模型，而是依据整期访谈提炼出的主线：信息→认知→决策→价值→自由→体验→再学习。",
+      "time": "00:00—04:22",
+      "group": "core",
+      "kind": "core",
+      "color": "#e2e8f0",
+      "x": 810,
+      "y": 585,
+      "file": "00 导航/持续更新的人生系统.md"
+    },
+    {
+      "id": "cog",
+      "title": "认知升级",
+      "description": "观念不是永恒的；保持开放、检验信息、调整判断。",
+      "time": "00:08—02:40",
+      "group": "cog",
+      "kind": "hub",
+      "color": "#2dd4bf",
+      "x": 810,
+      "y": 340,
+      "file": "01 主题/认知升级.md"
+    },
+    {
+      "id": "cog-os",
+      "title": "认知操作系统",
+      "description": "依据变化更新旧框架，旧成功经验不总是适用于新环境。",
+      "time": "02:16—02:40",
+      "group": "cog",
+      "kind": "leaf",
+      "color": "#2dd4bf",
+      "x": 664,
+      "y": 107,
+      "file": "02 概念/认知操作系统.md"
+    },
+    {
+      "id": "cog-ego",
+      "title": "保持“小我”",
+      "description": "承认不知道，不让身份和过去的成就妨碍学习。",
+      "time": "02:04—02:40",
+      "group": "cog",
+      "kind": "leaf",
+      "color": "#2dd4bf",
+      "x": 770,
+      "y": 218,
+      "file": "02 概念/保持“小我”.md"
+    },
+    {
+      "id": "cog-huang",
+      "title": "黄毛思维",
+      "description": "面对嘲笑保持独立判断和执行，而非把反对当正确的证据。",
+      "time": "00:13—00:16",
+      "group": "cog",
+      "kind": "leaf",
+      "color": "#2dd4bf",
+      "x": 856,
+      "y": 152,
+      "file": "02 概念/黄毛思维.md"
+    },
+    {
+      "id": "cog-humility",
+      "title": "不急于定终局",
+      "description": "在信息不足和人生哲学问题上允许判断暂时开放。",
+      "time": "03:11—03:23",
+      "group": "cog",
+      "kind": "leaf",
+      "color": "#2dd4bf",
+      "x": 956,
+      "y": 88,
+      "file": "02 概念/不急于定终局.md"
+    },
+    {
+      "id": "ai",
+      "title": "AI 与知识",
+      "description": "将 AI 当长期使用的信息系统，而不是只问一次。",
+      "time": "00:00—00:53",
+      "group": "ai",
+      "kind": "hub",
+      "color": "#a78bfa",
+      "x": 1002,
+      "y": 432,
+      "file": "01 主题/AI 与知识.md"
+    },
+    {
+      "id": "ai-life",
+      "title": "生活 AI 化",
+      "description": "低成本工具、个人背景资料、长期持续记录。",
+      "time": "00:08—00:18",
+      "group": "ai",
+      "kind": "leaf",
+      "color": "#a78bfa",
+      "x": 1093,
+      "y": 173,
+      "file": "02 概念/生活 AI 化.md"
+    },
+    {
+      "id": "ai-memory",
+      "title": "MD 与可迁移记录",
+      "description": "训练、健康、日记、README 存成 Markdown，换 AI 仍可接续。",
+      "time": "00:03—00:08",
+      "group": "ai",
+      "kind": "leaf",
+      "color": "#a78bfa",
+      "x": 1082,
+      "y": 290,
+      "file": "02 概念/MD 与可迁移记录.md"
+    },
+    {
+      "id": "ai-cross",
+      "title": "多模型交叉",
+      "description": "把重要问题交给不同模型比较，不只听一个回答。",
+      "time": "00:17—00:19",
+      "group": "ai",
+      "kind": "leaf",
+      "color": "#a78bfa",
+      "x": 1181,
+      "y": 356,
+      "file": "02 概念/多模型交叉.md"
+    },
+    {
+      "id": "ai-science",
+      "title": "科学研究加速",
+      "description": "数学、天文、生物等高数据领域可能借助 AI 降低知识门槛。",
+      "time": "00:25—00:33",
+      "group": "ai",
+      "kind": "leaf",
+      "color": "#a78bfa",
+      "x": 1275,
+      "y": 420,
+      "file": "02 概念/科学研究加速.md"
+    },
+    {
+      "id": "dec",
+      "title": "决策与探索",
+      "description": "观察市场、比较路径、减少不可逆下注。",
+      "time": "00:33—01:29",
+      "group": "dec",
+      "kind": "hub",
+      "color": "#60a5fa",
+      "x": 1049,
+      "y": 640,
+      "file": "01 主题/决策与探索.md"
+    },
+    {
+      "id": "dec-map",
+      "title": "先探地图",
+      "description": "重大选择前广泛调查，先知道地图与资源分布再行动。",
+      "time": "00:39—00:46",
+      "group": "dec",
+      "kind": "leaf",
+      "color": "#60a5fa",
+      "x": 1309,
+      "y": 549,
+      "file": "02 概念/先探地图.md"
+    },
+    {
+      "id": "dec-test",
+      "title": "低成本先验证",
+      "description": "先用低成本获取信息、试探方向，再投入重资源；是对“探图”比喻的提炼。",
+      "time": "00:39—00:46",
+      "group": "dec",
+      "kind": "leaf",
+      "color": "#60a5fa",
+      "x": 1222,
+      "y": 631,
+      "file": "02 概念/低成本先验证.md"
+    },
+    {
+      "id": "dec-world",
+      "title": "全球视野",
+      "description": "把不同国家、不同市场都当作可能的需求与供给来源。",
+      "time": "00:33—00:39",
+      "group": "dec",
+      "kind": "leaf",
+      "color": "#60a5fa",
+      "x": 1226,
+      "y": 727,
+      "file": "02 概念/全球视野.md"
+    },
+    {
+      "id": "dec-move",
+      "title": "逐水草而居",
+      "description": "根据机会调整城市、行业和职业；强调机动性而非一生定死。",
+      "time": "01:22—01:29",
+      "group": "dec",
+      "kind": "leaf",
+      "color": "#60a5fa",
+      "x": 1244,
+      "y": 834,
+      "file": "02 概念/逐水草而居.md"
+    },
+    {
+      "id": "biz",
+      "title": "商业与技术",
+      "description": "商业必须交付用户感受到的价值。",
+      "time": "00:25—01:50",
+      "group": "biz",
+      "kind": "hub",
+      "color": "#fb923c",
+      "x": 916,
+      "y": 806,
+      "file": "01 主题/商业与技术.md"
+    },
+    {
+      "id": "biz-value",
+      "title": "创造真实价值",
+      "description": "识别价格差、服务差与客户需求，不能只停留在有想法。",
+      "time": "00:35—00:39",
+      "group": "biz",
+      "kind": "leaf",
+      "color": "#fb923c",
+      "x": 1149,
+      "y": 964,
+      "file": "02 概念/创造真实价值.md"
+    },
+    {
+      "id": "biz-crypto",
+      "title": "机器可读的货币",
+      "description": "将区块链视为可编程价值记录和结算系统；这是嘉宾的技术解释。",
+      "time": "01:32—01:39",
+      "group": "biz",
+      "kind": "leaf",
+      "color": "#fb923c",
+      "x": 1011,
+      "y": 898,
+      "file": "02 概念/机器可读的货币.md"
+    },
+    {
+      "id": "biz-agent",
+      "title": "AI Agent 支付",
+      "description": "未来智能体自主购买服务或结算，是嘉宾预测而非确定事实。",
+      "time": "00:46—00:53",
+      "group": "biz",
+      "kind": "leaf",
+      "color": "#fb923c",
+      "x": 958,
+      "y": 999,
+      "file": "02 概念/AI Agent 支付.md"
+    },
+    {
+      "id": "biz-digital",
+      "title": "数字化与传播",
+      "description": "将知识整理成可以保存、检索、传播的内容；自媒体降低表达门槛。",
+      "time": "01:39—01:46",
+      "group": "biz",
+      "kind": "leaf",
+      "color": "#fb923c",
+      "x": 892,
+      "y": 1079,
+      "file": "02 概念/数字化与传播.md"
+    },
+    {
+      "id": "wealth",
+      "title": "财富与自由",
+      "description": "金钱并不是意义、健康或感情的等价物。",
+      "time": "01:22—03:03",
+      "group": "wealth",
+      "kind": "hub",
+      "color": "#fbbf24",
+      "x": 704,
+      "y": 806,
+      "file": "01 主题/财富与自由.md"
+    },
+    {
+      "id": "w-feedback",
+      "title": "金钱是反馈",
+      "description": "商业回报是需求与价值的部分信号，但不等于完整社会价值。",
+      "time": "01:24—01:27",
+      "group": "wealth",
+      "kind": "leaf",
+      "color": "#fbbf24",
+      "x": 728,
+      "y": 1079,
+      "file": "02 概念/金钱是反馈.md"
+    },
+    {
+      "id": "w-first",
+      "title": "先自由后财富",
+      "description": "自由首先是选择和迁移能力；财富可能随后产生并扩展自由。",
+      "time": "02:43—02:49",
+      "group": "wealth",
+      "kind": "leaf",
+      "color": "#fbbf24",
+      "x": 681,
+      "y": 919,
+      "file": "02 概念/先自由后财富.md"
+    },
+    {
+      "id": "w-loop",
+      "title": "自由—财富飞轮",
+      "description": "自由可能帮助发现机会，财富又进一步提升选择权；并非必然。",
+      "time": "02:45—02:50",
+      "group": "wealth",
+      "kind": "leaf",
+      "color": "#fbbf24",
+      "x": 579,
+      "y": 1002,
+      "file": "02 概念/自由—财富飞轮.md"
+    },
+    {
+      "id": "w-amplify",
+      "title": "财富是放大器",
+      "description": "金钱可能放大已有习惯与关系状态，不能自动解决所有问题。",
+      "time": "02:50—03:10",
+      "group": "wealth",
+      "kind": "leaf",
+      "color": "#fbbf24",
+      "x": 471,
+      "y": 936,
+      "file": "02 概念/财富是放大器.md"
+    },
+    {
+      "id": "health",
+      "title": "健康与复利",
+      "description": "主动监测、运动与休息，是长期能力的支撑条件。",
+      "time": "00:00—02:16",
+      "group": "health",
+      "kind": "hub",
+      "color": "#4ade80",
+      "x": 571,
+      "y": 640,
+      "file": "01 主题/健康与复利.md"
+    },
+    {
+      "id": "h-server",
+      "title": "碳基服务器",
+      "description": "以计算设备维护类比维护身体：体能、睡眠和营养影响长期行动。",
+      "time": "00:53—01:22",
+      "group": "health",
+      "kind": "leaf",
+      "color": "#4ade80",
+      "x": 376,
+      "y": 834,
+      "file": "02 概念/碳基服务器.md"
+    },
+    {
+      "id": "h-logs",
+      "title": "量化生活",
+      "description": "用饮食照片、睡眠、运动训练日志观察变化；估算有误差。",
+      "time": "00:01—00:08",
+      "group": "health",
+      "kind": "leaf",
+      "color": "#4ade80",
+      "x": 449,
+      "y": 711,
+      "file": "02 概念/量化生活.md"
+    },
+    {
+      "id": "h-prevent",
+      "title": "主动健康管理",
+      "description": "从生病再治疗延伸到关注危险因素和日常健康习惯。",
+      "time": "02:04—02:07",
+      "group": "health",
+      "kind": "leaf",
+      "color": "#4ade80",
+      "x": 373,
+      "y": 638,
+      "file": "02 概念/主动健康管理.md"
+    },
+    {
+      "id": "h-long",
+      "title": "长期行动能力",
+      "description": "身体健康与可持续的工作、探索和体验有联系。",
+      "time": "02:10—02:16",
+      "group": "health",
+      "kind": "leaf",
+      "color": "#4ade80",
+      "x": 311,
+      "y": 549,
+      "file": "02 概念/长期行动能力.md"
+    },
+    {
+      "id": "life",
+      "title": "体验与创造",
+      "description": "关系不能靠钱完全解决；创造让个人经验影响更多人。",
+      "time": "03:03—04:19",
+      "group": "life",
+      "kind": "hub",
+      "color": "#f472b6",
+      "x": 618,
+      "y": 432,
+      "file": "01 主题/体验与创造.md"
+    },
+    {
+      "id": "life-love",
+      "title": "关系的独立性",
+      "description": "感情与婚姻高度主观，金钱不能直接替代信任和爱。",
+      "time": "03:03—03:10",
+      "group": "life",
+      "kind": "leaf",
+      "color": "#f472b6",
+      "x": 334,
+      "y": 401,
+      "file": "02 概念/关系的独立性.md"
+    },
+    {
+      "id": "life-exp",
+      "title": "体验大于终局",
+      "description": "不急着定义人生意义，先体验、观察、形成新认识。",
+      "time": "03:11—03:23",
+      "group": "life",
+      "kind": "leaf",
+      "color": "#f472b6",
+      "x": 499,
+      "y": 361,
+      "file": "02 概念/体验大于终局.md"
+    },
+    {
+      "id": "life-view",
+      "title": "换视角与榜样",
+      "description": "在不同人生视角中学习；从马斯克、巴菲特、特朗普等提炼不同方法。",
+      "time": "03:35—04:00",
+      "group": "life",
+      "kind": "leaf",
+      "color": "#f472b6",
+      "x": 497,
+      "y": 276,
+      "file": "02 概念/换视角与榜样.md"
+    },
+    {
+      "id": "life-create",
+      "title": "多创造，少消费",
+      "description": "体验可转化为作品、知识和传承；消费也有恢复和启发作用。",
+      "time": "04:00—04:16",
+      "group": "life",
+      "kind": "leaf",
+      "color": "#f472b6",
+      "x": 527,
+      "y": 173,
+      "file": "02 概念/多创造，少消费.md"
+    },
+    {
+      "id": "sun",
+      "title": "孙学与个人框架",
+      "group": "cog",
+      "time": "00:12—00:16",
+      "kind": "leaf",
+      "description": "访谈把对金钱、技术与人生选择的认知升级统称为“孙学”。这是嘉宾的个人框架，不能按学术理论处理。",
+      "color": "#2dd4bf",
+      "file": "02 概念/孙学与个人框架.md"
+    },
+    {
+      "id": "body",
+      "title": "薄肌与身体形象",
+      "group": "health",
+      "time": "00:12—01:22",
+      "kind": "leaf",
+      "description": "主持人的薄肌概念把训练、外形与健康联系起来，嘉宾进一步把它纳入长期人生规划。",
+      "color": "#4ade80",
+      "file": "02 概念/薄肌与身体形象.md"
+    },
+    {
+      "id": "trust",
+      "title": "AI 信任与人类复核",
+      "group": "ai",
+      "time": "00:15—00:23",
+      "kind": "leaf",
+      "description": "嘉宾既说百分百相信 AI，也说保留个人判断、调优并询问多个模型。",
+      "color": "#a78bfa",
+      "file": "02 概念/AI 信任与人类复核.md"
+    },
+    {
+      "id": "context",
+      "title": "上下文、记忆与训练的区别",
+      "group": "ai",
+      "time": "00:03—00:25",
+      "kind": "leaf",
+      "description": "保存资料供新模型读取，可以延续工作背景；字幕里“训练好”的通俗说法容易混淆技术机制。",
+      "color": "#a78bfa",
+      "file": "02 概念/上下文、记忆与训练的区别.md"
+    },
+    {
+      "id": "lowcost",
+      "title": "低成本起步与真实成本",
+      "group": "ai",
+      "time": "00:08—00:25",
+      "kind": "leaf",
+      "description": "嘉宾把手机、低价工具与已有资料作为起点，试图降低必须先投入大量资金的门槛。",
+      "color": "#a78bfa",
+      "file": "02 概念/低成本起步与真实成本.md"
+    },
+    {
+      "id": "interest",
+      "title": "兴趣、专长与长期投入",
+      "group": "dec",
+      "time": "00:17—00:25",
+      "kind": "leaf",
+      "description": "在广泛追踪技术后，嘉宾又要求结合个人兴趣，选择一个方向深入钻研。",
+      "color": "#60a5fa",
+      "file": "02 概念/兴趣、专长与长期投入.md"
+    },
+    {
+      "id": "iterate",
+      "title": "反馈、调优与停止条件",
+      "group": "dec",
+      "time": "00:19—00:25",
+      "kind": "leaf",
+      "description": "访谈反复强调根据新记录和反馈调整，决策并非一次完成。",
+      "color": "#60a5fa",
+      "file": "02 概念/反馈、调优与停止条件.md"
+    },
+    {
+      "id": "young",
+      "title": "年轻、时间与寿命优势",
+      "group": "health",
+      "time": "00:25—00:33",
+      "kind": "leaf",
+      "description": "嘉宾认为技术降低许多成本后，更长的可行动时间成为年轻人的优势。",
+      "color": "#4ade80",
+      "file": "02 概念/年轻、时间与寿命优势.md"
+    },
+    {
+      "id": "verify",
+      "title": "知识获取与知识验证",
+      "group": "ai",
+      "time": "00:25—00:33",
+      "kind": "leaf",
+      "description": "获得研究思路、理解思路、验证思路和发现新知识不能合并成一个步骤。",
+      "color": "#a78bfa",
+      "file": "02 概念/知识获取与知识验证.md"
+    },
+    {
+      "id": "sciencebound",
+      "title": "AI 科研突破的证据层级",
+      "group": "ai",
+      "time": "00:25—00:33",
+      "kind": "leaf",
+      "description": "访谈从数学与天文数据推向快速突破甚至“人均诺奖”，其论证跨度很大。",
+      "color": "#a78bfa",
+      "file": "02 概念/AI 科研突破的证据层级.md"
+    },
+    {
+      "id": "bio",
+      "title": "AI 与生命科学的技术组合",
+      "group": "biz",
+      "time": "00:46—00:53",
+      "kind": "leaf",
+      "description": "嘉宾把 AI 与生物研究的组合列为潜在机会，关注数据分析对发现速度的影响。",
+      "color": "#fb923c",
+      "file": "02 概念/AI 与生命科学的技术组合.md"
+    },
+    {
+      "id": "supply",
+      "title": "全球供需连接与价值缺口",
+      "group": "biz",
+      "time": "00:33—00:39",
+      "kind": "leaf",
+      "description": "全球市场的机会被解释为不同地区的需求与供给尚未充分连接。",
+      "color": "#fb923c",
+      "file": "02 概念/全球供需连接与价值缺口.md"
+    },
+    {
+      "id": "token",
+      "title": "Token 中转案例与条件",
+      "group": "biz",
+      "time": "00:33—00:35",
+      "kind": "leaf",
+      "description": "嘉宾用地区定价差异和中转服务说明商业想法，这是案例叙述。",
+      "color": "#fb923c",
+      "file": "02 概念/Token 中转案例与条件.md"
+    },
+    {
+      "id": "info",
+      "title": "信息价值与调查边界",
+      "group": "dec",
+      "time": "00:39—00:46",
+      "kind": "leaf",
+      "description": "调查应按是否改善后续选择评价，而不是按收集数量评价。",
+      "color": "#60a5fa",
+      "file": "02 概念/信息价值与调查边界.md"
+    },
+    {
+      "id": "irreversible",
+      "title": "不可逆投入与小规模试验",
+      "group": "dec",
+      "time": "00:39—00:46",
+      "kind": "leaf",
+      "description": "重投入会减少纠错空间，因此先降低关键不确定性更有必要。",
+      "color": "#60a5fa",
+      "file": "02 概念/不可逆投入与小规模试验.md"
+    },
+    {
+      "id": "option",
+      "title": "选择权、稳定性与迁移成本",
+      "group": "wealth",
+      "time": "01:22—01:30",
+      "kind": "leaf",
+      "description": "逐水草而居强调保留改变路线的能力，但稳定关系和地方积累也可能创造价值。",
+      "color": "#fbbf24",
+      "file": "02 概念/选择权、稳定性与迁移成本.md"
+    },
+    {
+      "id": "financial",
+      "title": "财务独立与认知自主",
+      "group": "wealth",
+      "time": "02:40—03:01",
+      "kind": "leaf",
+      "description": "“财富自由”在访谈里同时指资金覆盖生活和不受旧观念限制，需要拆开。",
+      "color": "#fbbf24",
+      "file": "02 概念/财务独立与认知自主.md"
+    },
+    {
+      "id": "banana",
+      "title": "香蕉艺术品与符号价值",
+      "group": "biz",
+      "time": "01:30—01:32",
+      "kind": "leaf",
+      "description": "嘉宾用 Comedian 说明价值可来自概念、传播和身份，而不只来自实物材料。",
+      "color": "#fb923c",
+      "file": "02 概念/香蕉艺术品与符号价值.md"
+    },
+    {
+      "id": "ip",
+      "title": "注意力、数字 IP 与变现",
+      "group": "biz",
+      "time": "01:30—01:46",
+      "kind": "leaf",
+      "description": "公开表达和符号传播能让作品被更多人接触，但传播与回报之间还隔着转化机制。",
+      "color": "#fb923c",
+      "file": "02 概念/注意力、数字 IP 与变现.md"
+    },
+    {
+      "id": "media",
+      "title": "表达权分散与信息质量",
+      "group": "biz",
+      "time": "01:39—01:50",
+      "kind": "leaf",
+      "description": "自媒体降低发布门槛，使更多个体参与叙述；信息质量仍取决于证据与平台激励。",
+      "color": "#fb923c",
+      "file": "02 概念/表达权分散与信息质量.md"
+    },
+    {
+      "id": "motive",
+      "title": "事实、动机、效果与利益关系",
+      "group": "cog",
+      "time": "01:53—02:04",
+      "kind": "leaf",
+      "description": "被猜测的动机不能直接证明主张真假，但利益关系仍影响材料的解读方式。",
+      "color": "#2dd4bf",
+      "file": "02 概念/事实、动机、效果与利益关系.md"
+    },
+    {
+      "id": "assets",
+      "title": "技术判断与集中资产配置",
+      "group": "wealth",
+      "time": "01:50—02:04",
+      "kind": "leaf",
+      "description": "嘉宾将偏向 Crypto 的资产路线解释为技术认知选择，是个人自述。",
+      "color": "#fbbf24",
+      "file": "02 概念/技术判断与集中资产配置.md"
+    },
+    {
+      "id": "ego",
+      "title": "既有成功、身份与路径依赖",
+      "group": "cog",
+      "time": "02:07—02:29",
+      "kind": "leaf",
+      "description": "旧经验既能加快判断，也可能使人把过去奏效的方法当作永恒规则。",
+      "color": "#2dd4bf",
+      "file": "02 概念/既有成功、身份与路径依赖.md"
+    },
+    {
+      "id": "skills",
+      "title": "局部技能与系统理解",
+      "group": "cog",
+      "time": "02:29—02:36",
+      "kind": "leaf",
+      "description": "访谈以英雄操作和游戏版本区分把事情做好与选择正确事情。",
+      "color": "#2dd4bf",
+      "file": "02 概念/局部技能与系统理解.md"
+    },
+    {
+      "id": "poor",
+      "title": "低起点、灵活性与真实约束",
+      "group": "dec",
+      "time": "02:37—02:40",
+      "kind": "leaf",
+      "description": "较少既有投入可能降低换路成本，但贫穷本身仍限制可承受的试错。",
+      "color": "#60a5fa",
+      "file": "02 概念/低起点、灵活性与真实约束.md"
+    },
+    {
+      "id": "survivor",
+      "title": "成功案例与幸存者偏差",
+      "group": "cog",
+      "time": "02:07—04:16",
+      "kind": "leaf",
+      "description": "访谈大量以成功人物说明观点，容易忽略采取类似路线却没有成功的人。",
+      "color": "#2dd4bf",
+      "file": "02 概念/成功案例与幸存者偏差.md"
+    },
+    {
+      "id": "rational",
+      "title": "商业效率与关系责任",
+      "group": "life",
+      "time": "03:01—03:10",
+      "kind": "leaf",
+      "description": "商业中可比较的收益成本，并不能完整表示关系中的承诺、信任与双方需求。",
+      "color": "#f472b6",
+      "file": "02 概念/商业效率与关系责任.md"
+    },
+    {
+      "id": "rick",
+      "title": "瑞克和莫蒂与视角样本",
+      "group": "life",
+      "time": "03:10—03:30",
+      "kind": "leaf",
+      "description": "节目借虚构叙事说明世界与体验可以有不同视角，这是哲学讨论的素材。",
+      "color": "#f472b6",
+      "file": "02 概念/瑞克和莫蒂与视角样本.md"
+    },
+    {
+      "id": "quests",
+      "title": "支线任务与目标重设",
+      "group": "life",
+      "time": "03:49—04:00",
+      "kind": "leaf",
+      "description": "当一个财富目标完成，人生仍可通过新领域和不同体验设立后续方向。",
+      "color": "#f472b6",
+      "file": "02 概念/支线任务与目标重设.md"
+    },
+    {
+      "id": "hundred",
+      "title": "创业一百年与长期边界",
+      "group": "life",
+      "time": "03:30—03:49",
+      "kind": "leaf",
+      "description": "嘉宾用百年创业表达持续探索的愿景，强调不把既有成就当终点。",
+      "color": "#f472b6",
+      "file": "02 概念/创业一百年与长期边界.md"
+    },
+    {
+      "id": "models",
+      "title": "选择性借鉴与公众人物榜样",
+      "group": "life",
+      "time": "03:35—03:49",
+      "kind": "leaf",
+      "description": "工程、投资、传播等能力可以从不同人物身上分别学习，不要求全面认同。",
+      "color": "#f472b6",
+      "file": "02 概念/选择性借鉴与公众人物榜样.md"
+    },
+    {
+      "id": "chance",
+      "title": "经历、积累与偶然性",
+      "group": "life",
+      "time": "04:00—04:16",
+      "kind": "leaf",
+      "description": "访谈通过李煜、诺贝尔和运动员家庭，讨论成果并非总由预先规划产生。",
+      "color": "#f472b6",
+      "file": "02 概念/经历、积累与偶然性.md"
+    },
+    {
+      "id": "rest",
+      "title": "消费、恢复与创造节奏",
+      "group": "life",
+      "time": "04:12—04:16",
+      "kind": "leaf",
+      "description": "节目后段明确承认消费和休息能够为创造恢复精力，避免百分之百创造。",
+      "color": "#f472b6",
+      "file": "02 概念/消费、恢复与创造节奏.md"
+    },
+    {
+      "id": "ethics",
+      "title": "体验论的伦理边界",
+      "group": "life",
+      "time": "03:10—04:16",
+      "kind": "leaf",
+      "description": "体验提供生活方向，却尚不足以回答自由与他人权益冲突时应如何选择。",
+      "color": "#f472b6",
+      "file": "02 概念/体验论的伦理边界.md"
+    },
+    {
+      "id": "metaphor",
+      "title": "统一比喻的解释力与局限",
+      "group": "cog",
+      "time": "00:12—04:19",
+      "kind": "leaf",
+      "description": "操作系统、游戏、服务器和积分等比喻把复杂话题连起来，也可能掩盖它们的差异。",
+      "color": "#2dd4bf",
+      "file": "02 概念/统一比喻的解释力与局限.md"
+    },
+    {
+      "id": "agency",
+      "title": "信息、判断、行动与结果",
+      "group": "cog",
+      "time": "00:08—04:19",
+      "kind": "leaf",
+      "description": "认知可能改变选择，选择又影响行动；最终结果还受资源、环境与偶然性约束。",
+      "color": "#2dd4bf",
+      "file": "02 概念/信息、判断、行动与结果.md"
+    }
+  ],
+  "edges": [
+    {
+      "source": "life",
+      "target": "cog",
+      "label": "体验产生新的信息",
+      "kind": "feedback",
+      "detail": "人生体验反过来修正认知，形成循环。",
+      "provenance": "用户提供的HTML关系",
+      "status": "解释性关系，非实证因果"
+    },
+    {
+      "source": "core",
+      "target": "cog",
+      "label": "核心主题",
+      "kind": "group",
+      "detail": "这部分属于整期访谈的主主题之一。",
+      "provenance": "用户提供的HTML关系",
+      "status": "组织关系"
+    },
+    {
+      "source": "cog",
+      "target": "cog-os",
+      "label": "具体观点",
+      "kind": "group",
+      "detail": "依据变化更新旧框架，旧成功经验不总是适用于新环境。",
+      "provenance": "用户提供的HTML关系",
+      "status": "组织关系"
+    },
+    {
+      "source": "cog",
+      "target": "cog-ego",
+      "label": "具体观点",
+      "kind": "group",
+      "detail": "承认不知道，不让身份和过去的成就妨碍学习。",
+      "provenance": "用户提供的HTML关系",
+      "status": "组织关系"
+    },
+    {
+      "source": "cog",
+      "target": "cog-huang",
+      "label": "具体观点",
+      "kind": "group",
+      "detail": "面对嘲笑保持独立判断和执行，而非把反对当正确的证据。",
+      "provenance": "用户提供的HTML关系",
+      "status": "组织关系"
+    },
+    {
+      "source": "cog",
+      "target": "cog-humility",
+      "label": "具体观点",
+      "kind": "group",
+      "detail": "在信息不足和人生哲学问题上允许判断暂时开放。",
+      "provenance": "用户提供的HTML关系",
+      "status": "组织关系"
+    },
+    {
+      "source": "core",
+      "target": "ai",
+      "label": "核心主题",
+      "kind": "group",
+      "detail": "这部分属于整期访谈的主主题之一。",
+      "provenance": "用户提供的HTML关系",
+      "status": "组织关系"
+    },
+    {
+      "source": "ai",
+      "target": "ai-life",
+      "label": "具体观点",
+      "kind": "group",
+      "detail": "低成本工具、个人背景资料、长期持续记录。",
+      "provenance": "用户提供的HTML关系",
+      "status": "组织关系"
+    },
+    {
+      "source": "ai",
+      "target": "ai-memory",
+      "label": "具体观点",
+      "kind": "group",
+      "detail": "训练、健康、日记、README 存成 Markdown，换 AI 仍可接续。",
+      "provenance": "用户提供的HTML关系",
+      "status": "组织关系"
+    },
+    {
+      "source": "ai",
+      "target": "ai-cross",
+      "label": "具体观点",
+      "kind": "group",
+      "detail": "把重要问题交给不同模型比较，不只听一个回答。",
+      "provenance": "用户提供的HTML关系",
+      "status": "组织关系"
+    },
+    {
+      "source": "ai",
+      "target": "ai-science",
+      "label": "具体观点",
+      "kind": "group",
+      "detail": "数学、天文、生物等高数据领域可能借助 AI 降低知识门槛。",
+      "provenance": "用户提供的HTML关系",
+      "status": "组织关系"
+    },
+    {
+      "source": "core",
+      "target": "dec",
+      "label": "核心主题",
+      "kind": "group",
+      "detail": "这部分属于整期访谈的主主题之一。",
+      "provenance": "用户提供的HTML关系",
+      "status": "组织关系"
+    },
+    {
+      "source": "dec",
+      "target": "dec-map",
+      "label": "具体观点",
+      "kind": "group",
+      "detail": "重大选择前广泛调查，先知道地图与资源分布再行动。",
+      "provenance": "用户提供的HTML关系",
+      "status": "组织关系"
+    },
+    {
+      "source": "dec",
+      "target": "dec-test",
+      "label": "具体观点",
+      "kind": "group",
+      "detail": "先用低成本获取信息、试探方向，再投入重资源；是对“探图”比喻的提炼。",
+      "provenance": "用户提供的HTML关系",
+      "status": "组织关系"
+    },
+    {
+      "source": "dec",
+      "target": "dec-world",
+      "label": "具体观点",
+      "kind": "group",
+      "detail": "把不同国家、不同市场都当作可能的需求与供给来源。",
+      "provenance": "用户提供的HTML关系",
+      "status": "组织关系"
+    },
+    {
+      "source": "dec",
+      "target": "dec-move",
+      "label": "具体观点",
+      "kind": "group",
+      "detail": "根据机会调整城市、行业和职业；强调机动性而非一生定死。",
+      "provenance": "用户提供的HTML关系",
+      "status": "组织关系"
+    },
+    {
+      "source": "core",
+      "target": "biz",
+      "label": "核心主题",
+      "kind": "group",
+      "detail": "这部分属于整期访谈的主主题之一。",
+      "provenance": "用户提供的HTML关系",
+      "status": "组织关系"
+    },
+    {
+      "source": "biz",
+      "target": "biz-value",
+      "label": "具体观点",
+      "kind": "group",
+      "detail": "识别价格差、服务差与客户需求，不能只停留在有想法。",
+      "provenance": "用户提供的HTML关系",
+      "status": "组织关系"
+    },
+    {
+      "source": "biz",
+      "target": "biz-crypto",
+      "label": "具体观点",
+      "kind": "group",
+      "detail": "将区块链视为可编程价值记录和结算系统；这是嘉宾的技术解释。",
+      "provenance": "用户提供的HTML关系",
+      "status": "组织关系"
+    },
+    {
+      "source": "biz",
+      "target": "biz-agent",
+      "label": "具体观点",
+      "kind": "group",
+      "detail": "未来智能体自主购买服务或结算，是嘉宾预测而非确定事实。",
+      "provenance": "用户提供的HTML关系",
+      "status": "组织关系"
+    },
+    {
+      "source": "biz",
+      "target": "biz-digital",
+      "label": "具体观点",
+      "kind": "group",
+      "detail": "将知识整理成可以保存、检索、传播的内容；自媒体降低表达门槛。",
+      "provenance": "用户提供的HTML关系",
+      "status": "组织关系"
+    },
+    {
+      "source": "core",
+      "target": "wealth",
+      "label": "核心主题",
+      "kind": "group",
+      "detail": "这部分属于整期访谈的主主题之一。",
+      "provenance": "用户提供的HTML关系",
+      "status": "组织关系"
+    },
+    {
+      "source": "wealth",
+      "target": "w-feedback",
+      "label": "具体观点",
+      "kind": "group",
+      "detail": "商业回报是需求与价值的部分信号，但不等于完整社会价值。",
+      "provenance": "用户提供的HTML关系",
+      "status": "组织关系"
+    },
+    {
+      "source": "wealth",
+      "target": "w-first",
+      "label": "具体观点",
+      "kind": "group",
+      "detail": "自由首先是选择和迁移能力；财富可能随后产生并扩展自由。",
+      "provenance": "用户提供的HTML关系",
+      "status": "组织关系"
+    },
+    {
+      "source": "wealth",
+      "target": "w-loop",
+      "label": "具体观点",
+      "kind": "group",
+      "detail": "自由可能帮助发现机会，财富又进一步提升选择权；并非必然。",
+      "provenance": "用户提供的HTML关系",
+      "status": "组织关系"
+    },
+    {
+      "source": "wealth",
+      "target": "w-amplify",
+      "label": "具体观点",
+      "kind": "group",
+      "detail": "金钱可能放大已有习惯与关系状态，不能自动解决所有问题。",
+      "provenance": "用户提供的HTML关系",
+      "status": "组织关系"
+    },
+    {
+      "source": "core",
+      "target": "health",
+      "label": "核心主题",
+      "kind": "group",
+      "detail": "这部分属于整期访谈的主主题之一。",
+      "provenance": "用户提供的HTML关系",
+      "status": "组织关系"
+    },
+    {
+      "source": "health",
+      "target": "h-server",
+      "label": "具体观点",
+      "kind": "group",
+      "detail": "以计算设备维护类比维护身体：体能、睡眠和营养影响长期行动。",
+      "provenance": "用户提供的HTML关系",
+      "status": "组织关系"
+    },
+    {
+      "source": "health",
+      "target": "h-logs",
+      "label": "具体观点",
+      "kind": "group",
+      "detail": "用饮食照片、睡眠、运动训练日志观察变化；估算有误差。",
+      "provenance": "用户提供的HTML关系",
+      "status": "组织关系"
+    },
+    {
+      "source": "health",
+      "target": "h-prevent",
+      "label": "具体观点",
+      "kind": "group",
+      "detail": "从生病再治疗延伸到关注危险因素和日常健康习惯。",
+      "provenance": "用户提供的HTML关系",
+      "status": "组织关系"
+    },
+    {
+      "source": "health",
+      "target": "h-long",
+      "label": "具体观点",
+      "kind": "group",
+      "detail": "身体健康与可持续的工作、探索和体验有联系。",
+      "provenance": "用户提供的HTML关系",
+      "status": "组织关系"
+    },
+    {
+      "source": "core",
+      "target": "life",
+      "label": "核心主题",
+      "kind": "group",
+      "detail": "这部分属于整期访谈的主主题之一。",
+      "provenance": "用户提供的HTML关系",
+      "status": "组织关系"
+    },
+    {
+      "source": "life",
+      "target": "life-love",
+      "label": "具体观点",
+      "kind": "group",
+      "detail": "感情与婚姻高度主观，金钱不能直接替代信任和爱。",
+      "provenance": "用户提供的HTML关系",
+      "status": "组织关系"
+    },
+    {
+      "source": "life",
+      "target": "life-exp",
+      "label": "具体观点",
+      "kind": "group",
+      "detail": "不急着定义人生意义，先体验、观察、形成新认识。",
+      "provenance": "用户提供的HTML关系",
+      "status": "组织关系"
+    },
+    {
+      "source": "life",
+      "target": "life-view",
+      "label": "具体观点",
+      "kind": "group",
+      "detail": "在不同人生视角中学习；从马斯克、巴菲特、特朗普等提炼不同方法。",
+      "provenance": "用户提供的HTML关系",
+      "status": "组织关系"
+    },
+    {
+      "source": "life",
+      "target": "life-create",
+      "label": "具体观点",
+      "kind": "group",
+      "detail": "体验可转化为作品、知识和传承；消费也有恢复和启发作用。",
+      "provenance": "用户提供的HTML关系",
+      "status": "组织关系"
+    },
+    {
+      "source": "ai-life",
+      "target": "ai-memory",
+      "label": "数据沉淀",
+      "kind": "support",
+      "detail": "个人资料长期记录才能形成可复用上下文。",
+      "provenance": "用户提供的HTML关系",
+      "status": "解释性关系，非实证因果"
+    },
+    {
+      "source": "ai-memory",
+      "target": "cog-os",
+      "label": "可复用证据",
+      "kind": "support",
+      "detail": "资料积累提供更新判断的材料。",
+      "provenance": "用户提供的HTML关系",
+      "status": "解释性关系，非实证因果"
+    },
+    {
+      "source": "ai-cross",
+      "target": "cog-ego",
+      "label": "降低单一权威依赖",
+      "kind": "support",
+      "detail": "多模型比较可以发现差异，但不能保证正确。",
+      "provenance": "用户提供的HTML关系",
+      "status": "解释性关系，非实证因果"
+    },
+    {
+      "source": "ai-science",
+      "target": "dec-world",
+      "label": "扩大探索边界",
+      "kind": "support",
+      "detail": "技术降低前沿信息成本，有助于接触不同机会。",
+      "provenance": "用户提供的HTML关系",
+      "status": "解释性关系，非实证因果"
+    },
+    {
+      "source": "ai-life",
+      "target": "dec-map",
+      "label": "放大探图能力",
+      "kind": "support",
+      "detail": "AI 可以帮助搜集和整理信息。",
+      "provenance": "用户提供的HTML关系",
+      "status": "解释性关系，非实证因果"
+    },
+    {
+      "source": "cog-os",
+      "target": "dec-map",
+      "label": "推动重新观察",
+      "kind": "support",
+      "detail": "认知可更新，有助于不依赖单一旧经验。",
+      "provenance": "用户提供的HTML关系",
+      "status": "解释性关系，非实证因果"
+    },
+    {
+      "source": "cog-ego",
+      "target": "cog-os",
+      "label": "允许推翻旧判断",
+      "kind": "feedback",
+      "detail": "保持开放是认知更新的前提之一。",
+      "provenance": "用户提供的HTML关系",
+      "status": "解释性关系，非实证因果"
+    },
+    {
+      "source": "cog-huang",
+      "target": "cog-ego",
+      "label": "存在张力",
+      "kind": "tension",
+      "detail": "坚持主张若缺乏证据检验可能退化为固执。",
+      "provenance": "用户提供的HTML关系",
+      "status": "解释性关系，非实证因果"
+    },
+    {
+      "source": "dec-map",
+      "target": "dec-test",
+      "label": "先信息后投入",
+      "kind": "causal",
+      "detail": "探图是减少盲目重投入的策略。",
+      "provenance": "用户提供的HTML关系",
+      "status": "解释性关系，非实证因果"
+    },
+    {
+      "source": "dec-world",
+      "target": "biz-value",
+      "label": "发现供需差",
+      "kind": "causal",
+      "detail": "全球视野扩大可能服务的客户与市场。",
+      "provenance": "用户提供的HTML关系",
+      "status": "解释性关系，非实证因果"
+    },
+    {
+      "source": "dec-move",
+      "target": "w-first",
+      "label": "保留选择权",
+      "kind": "causal",
+      "detail": "机动性是他所说“先自由”的具体表现。",
+      "provenance": "用户提供的HTML关系",
+      "status": "解释性关系，非实证因果"
+    },
+    {
+      "source": "biz-value",
+      "target": "w-feedback",
+      "label": "市场回报信号",
+      "kind": "causal",
+      "detail": "能否盈利可以部分反馈用户需求与商业价值。",
+      "provenance": "用户提供的HTML关系",
+      "status": "解释性关系，非实证因果"
+    },
+    {
+      "source": "w-feedback",
+      "target": "biz-value",
+      "label": "不等价",
+      "kind": "tension",
+      "detail": "赚钱与创造社会价值不是完全等价命题。",
+      "provenance": "用户提供的HTML关系",
+      "status": "解释性关系，非实证因果"
+    },
+    {
+      "source": "w-first",
+      "target": "w-loop",
+      "label": "扩大机会",
+      "kind": "causal",
+      "detail": "自由可能促进探索，从而带来更多经济机会。",
+      "provenance": "用户提供的HTML关系",
+      "status": "解释性关系，非实证因果"
+    },
+    {
+      "source": "w-loop",
+      "target": "dec-move",
+      "label": "资源反哺机动性",
+      "kind": "feedback",
+      "detail": "财富增加又可能让个人更容易迁移和选择。",
+      "provenance": "用户提供的HTML关系",
+      "status": "解释性关系，非实证因果"
+    },
+    {
+      "source": "w-amplify",
+      "target": "life-love",
+      "label": "金钱边界",
+      "kind": "tension",
+      "detail": "亲密关系无法被财富完全替代。",
+      "provenance": "用户提供的HTML关系",
+      "status": "解释性关系，非实证因果"
+    },
+    {
+      "source": "h-logs",
+      "target": "h-prevent",
+      "label": "数据支持管理",
+      "kind": "causal",
+      "detail": "记录健康状况可辅助主动管理，但测量与 AI 估算存在误差。",
+      "provenance": "用户提供的HTML关系",
+      "status": "解释性关系，非实证因果"
+    },
+    {
+      "source": "h-prevent",
+      "target": "h-long",
+      "label": "改善持续性",
+      "kind": "support",
+      "detail": "健康管理是长期行动的支撑，而非保证。",
+      "provenance": "用户提供的HTML关系",
+      "status": "解释性关系，非实证因果"
+    },
+    {
+      "source": "h-long",
+      "target": "dec-move",
+      "label": "身体支持探索",
+      "kind": "support",
+      "detail": "身体条件影响个人行动与迁移能力。",
+      "provenance": "用户提供的HTML关系",
+      "status": "解释性关系，非实证因果"
+    },
+    {
+      "source": "h-long",
+      "target": "life-exp",
+      "label": "支撑更多体验",
+      "kind": "support",
+      "detail": "长期身体能力增加体验的可能性。",
+      "provenance": "用户提供的HTML关系",
+      "status": "解释性关系，非实证因果"
+    },
+    {
+      "source": "life-exp",
+      "target": "cog-humility",
+      "label": "暂不定终局",
+      "kind": "support",
+      "detail": "体验越多可能越能意识到认知边界。",
+      "provenance": "用户提供的HTML关系",
+      "status": "解释性关系，非实证因果"
+    },
+    {
+      "source": "life-exp",
+      "target": "life-create",
+      "label": "经验转化作品",
+      "kind": "causal",
+      "detail": "将经历转换为知识、艺术与公共成果。",
+      "provenance": "用户提供的HTML关系",
+      "status": "解释性关系，非实证因果"
+    },
+    {
+      "source": "life-view",
+      "target": "cog-os",
+      "label": "新视角促更新",
+      "kind": "feedback",
+      "detail": "跨角色和跨学派的体验对既有认知形成反馈。",
+      "provenance": "用户提供的HTML关系",
+      "status": "解释性关系，非实证因果"
+    },
+    {
+      "source": "life-create",
+      "target": "biz-value",
+      "label": "创造可以产生价值",
+      "kind": "support",
+      "detail": "有些创造可以服务他人，但不必都以赚钱衡量。",
+      "provenance": "用户提供的HTML关系",
+      "status": "解释性关系，非实证因果"
+    },
+    {
+      "source": "biz-crypto",
+      "target": "biz-agent",
+      "label": "未来支付设施？",
+      "kind": "hypothesis",
+      "detail": "嘉宾认为区块链可能服务机器结算，实际采用存在不确定性。",
+      "provenance": "用户提供的HTML关系",
+      "status": "解释性关系，非实证因果"
+    },
+    {
+      "source": "biz-digital",
+      "target": "ai-science",
+      "label": "知识更易检索",
+      "kind": "support",
+      "detail": "数字化材料更易保存、查找与利用；仍需质量验证。",
+      "provenance": "用户提供的HTML关系",
+      "status": "解释性关系，非实证因果"
+    },
+    {
+      "source": "biz-digital",
+      "target": "ai-memory",
+      "label": "记录可跨工具",
+      "kind": "support",
+      "detail": "机器可读内容帮助不同 AI 继续工作。",
+      "provenance": "用户提供的HTML关系",
+      "status": "解释性关系，非实证因果"
+    },
+    {
+      "source": "life-love",
+      "target": "cog-humility",
+      "label": "承认知识边界",
+      "kind": "feedback",
+      "detail": "嘉宾坦承尚未摸索出婚姻感情的统一答案。",
+      "provenance": "用户提供的HTML关系",
+      "status": "解释性关系，非实证因果"
+    },
+    {
+      "source": "life-create",
+      "target": "core",
+      "label": "创造带来新经历",
+      "kind": "feedback",
+      "detail": "创造本身也会改变自己的生活经验和认知。",
+      "provenance": "用户提供的HTML关系",
+      "status": "解释性关系，非实证因果"
+    },
+    {
+      "source": "sun",
+      "target": "cog-os",
+      "label": "框架实例",
+      "kind": "group",
+      "detail": "本次分析：框架把不同问题放在同一组比喻中，便于记忆与表达；真正需要评价的是每个具体判断及其适用条件。",
+      "provenance": "本次分析",
+      "status": "组织关系"
+    },
+    {
+      "source": "body",
+      "target": "h-server",
+      "label": "身体目标",
+      "kind": "support",
+      "detail": "本次分析：外形目标可能提高执行动力，但它只是健康管理中的一种偏好，不能覆盖全部身体指标。",
+      "provenance": "本次分析",
+      "status": "解释性关系，非实证因果"
+    },
+    {
+      "source": "trust",
+      "target": "ai-cross",
+      "label": "复核需要",
+      "kind": "tension",
+      "detail": "本次分析：把建议视作待检验输入可以同时保留使用价值与人的责任。无条件执行则无法解释错误后如何改进。",
+      "provenance": "本次分析",
+      "status": "解释性关系，非实证因果"
+    },
+    {
+      "source": "trust",
+      "target": "iterate",
+      "label": "错误后更新",
+      "kind": "support",
+      "detail": "本次分析：把建议视作待检验输入可以同时保留使用价值与人的责任。无条件执行则无法解释错误后如何改进。",
+      "provenance": "本次分析",
+      "status": "解释性关系，非实证因果"
+    },
+    {
+      "source": "context",
+      "target": "ai-memory",
+      "label": "区别记忆机制",
+      "kind": "support",
+      "detail": "本次分析：文档保存是外部记忆，读取让资料进入当前上下文；模型参数训练则是另一种过程。",
+      "provenance": "本次分析",
+      "status": "解释性关系，非实证因果"
+    },
+    {
+      "source": "lowcost",
+      "target": "dec-test",
+      "label": "保留尝试空间",
+      "kind": "support",
+      "detail": "本次分析：降低固定支出能保留尝试空间；但学习、整理和校验仍需时间，因此成本只是重新分配。",
+      "provenance": "本次分析",
+      "status": "解释性关系，非实证因果"
+    },
+    {
+      "source": "interest",
+      "target": "dec-world",
+      "label": "按兴趣筛选",
+      "kind": "support",
+      "detail": "本次分析：探索扩大候选集，兴趣与专长帮助缩小候选集，持续投入才可能积累可交付能力。",
+      "provenance": "本次分析",
+      "status": "解释性关系，非实证因果"
+    },
+    {
+      "source": "iterate",
+      "target": "dec-test",
+      "label": "需要停止条件",
+      "kind": "support",
+      "detail": "本次分析：先写下预期结果，再观察偏差，才能区分真实更新和事后解释。停止条件防止把失败无限延期。",
+      "provenance": "本次分析",
+      "status": "解释性关系，非实证因果"
+    },
+    {
+      "source": "young",
+      "target": "h-long",
+      "label": "更多积累时间",
+      "kind": "support",
+      "detail": "本次分析：时间让学习、试错与成果积累有机会重复；优势要以持续投入和可用资源为条件。",
+      "provenance": "本次分析",
+      "status": "解释性关系，非实证因果"
+    },
+    {
+      "source": "verify",
+      "target": "ai-science",
+      "label": "科研须验证",
+      "kind": "tension",
+      "detail": "本次分析：当搜索更便宜，注意力可能转到问题选择、证据检查和证明质量。瓶颈是否迁移要按任务检验。",
+      "provenance": "本次分析",
+      "status": "解释性关系，非实证因果"
+    },
+    {
+      "source": "sciencebound",
+      "target": "verify",
+      "label": "区分证据层级",
+      "kind": "support",
+      "detail": "本次分析：从可用资料到候选推理，再到独立验证与领域认可，每一层都需要新增证据。",
+      "provenance": "本次分析",
+      "status": "解释性关系，非实证因果"
+    },
+    {
+      "source": "bio",
+      "target": "ai-science",
+      "label": "技术组合",
+      "kind": "hypothesis",
+      "detail": "本次分析：计算能帮助生成与筛选候选，但真实生物结果依赖实验、适用条件与后续验证。",
+      "provenance": "本次分析",
+      "status": "解释性关系，非实证因果"
+    },
+    {
+      "source": "supply",
+      "target": "biz-value",
+      "label": "需求转为交付",
+      "kind": "support",
+      "detail": "本次分析：信息与语言工具能降低匹配成本，能否成交还取决于交付、信任与总成本。",
+      "provenance": "本次分析",
+      "status": "解释性关系，非实证因果"
+    },
+    {
+      "source": "token",
+      "target": "supply",
+      "label": "案例",
+      "kind": "group",
+      "detail": "本次分析：核心推理是将低成本供给服务给高支付意愿需求；成立需要稳定供给、合法授权与服务质量。",
+      "provenance": "本次分析",
+      "status": "组织关系"
+    },
+    {
+      "source": "info",
+      "target": "dec-map",
+      "label": "决定调查强度",
+      "kind": "support",
+      "detail": "本次分析：当额外调查可能改变高损失决定时，信息价值较高；若选择已不会改变，新增资料的收益降低。",
+      "provenance": "本次分析",
+      "status": "解释性关系，非实证因果"
+    },
+    {
+      "source": "info",
+      "target": "irreversible",
+      "label": "损失提高信息价值",
+      "kind": "support",
+      "detail": "本次分析：当额外调查可能改变高损失决定时，信息价值较高；若选择已不会改变，新增资料的收益降低。",
+      "provenance": "本次分析",
+      "status": "解释性关系，非实证因果"
+    },
+    {
+      "source": "irreversible",
+      "target": "dec-test",
+      "label": "保留纠错空间",
+      "kind": "support",
+      "detail": "本次分析：可逆选择允许通过行动学习；难逆转选择更依赖事前证据。两类决定需要不同调查强度。",
+      "provenance": "本次分析",
+      "status": "解释性关系，非实证因果"
+    },
+    {
+      "source": "option",
+      "target": "dec-move",
+      "label": "迁移权与代价",
+      "kind": "support",
+      "detail": "本次分析：选择权让人在环境变化后可调整；稳定投入则可能积累信任、技能和长期协作。",
+      "provenance": "本次分析",
+      "status": "解释性关系，非实证因果"
+    },
+    {
+      "source": "option",
+      "target": "financial",
+      "label": "拆开自由定义",
+      "kind": "support",
+      "detail": "本次分析：选择权让人在环境变化后可调整；稳定投入则可能积累信任、技能和长期协作。",
+      "provenance": "本次分析",
+      "status": "解释性关系，非实证因果"
+    },
+    {
+      "source": "financial",
+      "target": "w-first",
+      "label": "不同自由概念",
+      "kind": "tension",
+      "detail": "本次分析：财务独立涉及资产、支出和持续现金流；认知自主涉及是否能比较并选择路线。",
+      "provenance": "本次分析",
+      "status": "解释性关系，非实证因果"
+    },
+    {
+      "source": "banana",
+      "target": "ip",
+      "label": "符号与传播",
+      "kind": "support",
+      "detail": "本次分析：符号与认可可以影响需求，所有权证书及作品规则又与一根可替换的香蕉不同。",
+      "provenance": "本次分析",
+      "status": "解释性关系，非实证因果"
+    },
+    {
+      "source": "banana",
+      "target": "w-feedback",
+      "label": "价格非全部价值",
+      "kind": "tension",
+      "detail": "本次分析：符号与认可可以影响需求，所有权证书及作品规则又与一根可替换的香蕉不同。",
+      "provenance": "本次分析",
+      "status": "解释性关系，非实证因果"
+    },
+    {
+      "source": "ip",
+      "target": "biz-digital",
+      "label": "保存与传播",
+      "kind": "support",
+      "detail": "本次分析：注意力可降低认知门槛、扩大受众；能否转为收入或长期认可仍需交付与持续需求。",
+      "provenance": "本次分析",
+      "status": "解释性关系，非实证因果"
+    },
+    {
+      "source": "media",
+      "target": "verify",
+      "label": "增加筛选需求",
+      "kind": "support",
+      "detail": "本次分析：传播结构变化增加内容供给，却也可能增加筛选成本，受众必须辨别来源与论证。",
+      "provenance": "本次分析",
+      "status": "解释性关系，非实证因果"
+    },
+    {
+      "source": "media",
+      "target": "biz-digital",
+      "label": "表达门槛降低",
+      "kind": "support",
+      "detail": "本次分析：传播结构变化增加内容供给，却也可能增加筛选成本，受众必须辨别来源与论证。",
+      "provenance": "本次分析",
+      "status": "解释性关系，非实证因果"
+    },
+    {
+      "source": "motive",
+      "target": "biz-crypto",
+      "label": "记录商业立场",
+      "kind": "support",
+      "detail": "本次分析：先验证事实，再评价行为后果，同时记录相关利益；三个问题不能互相替代。",
+      "provenance": "本次分析",
+      "status": "解释性关系，非实证因果"
+    },
+    {
+      "source": "assets",
+      "target": "biz-crypto",
+      "label": "技术非仓位依据",
+      "kind": "tension",
+      "detail": "本次分析：接受技术潜力、选择某资产、决定仓位及承担结果是不同判断；需要各自的依据。",
+      "provenance": "本次分析",
+      "status": "解释性关系，非实证因果"
+    },
+    {
+      "source": "assets",
+      "target": "survivor",
+      "label": "不可外推个人配置",
+      "kind": "tension",
+      "detail": "本次分析：接受技术潜力、选择某资产、决定仓位及承担结果是不同判断；需要各自的依据。",
+      "provenance": "本次分析",
+      "status": "解释性关系，非实证因果"
+    },
+    {
+      "source": "ego",
+      "target": "cog-ego",
+      "label": "身份阻碍纠错",
+      "kind": "tension",
+      "detail": "本次分析：已有投入、身份与社会期待可能提高改方向的心理与现实成本；认知更新要处理两者。",
+      "provenance": "本次分析",
+      "status": "解释性关系，非实证因果"
+    },
+    {
+      "source": "skills",
+      "target": "cog-os",
+      "label": "环境决定技能适用",
+      "kind": "support",
+      "detail": "本次分析：局部执行提升单项效率；系统判断决定何时使用该技能及如何配合其他资源。",
+      "provenance": "本次分析",
+      "status": "解释性关系，非实证因果"
+    },
+    {
+      "source": "skills",
+      "target": "interest",
+      "label": "深度投入",
+      "kind": "support",
+      "detail": "本次分析：局部执行提升单项效率；系统判断决定何时使用该技能及如何配合其他资源。",
+      "provenance": "本次分析",
+      "status": "解释性关系，非实证因果"
+    },
+    {
+      "source": "poor",
+      "target": "dec-move",
+      "label": "灵活但缺缓冲",
+      "kind": "tension",
+      "detail": "本次分析：沉没成本少与安全缓冲少同时存在。哪个效应更强，取决于生活条件与可恢复能力。",
+      "provenance": "本次分析",
+      "status": "解释性关系，非实证因果"
+    },
+    {
+      "source": "survivor",
+      "target": "w-feedback",
+      "label": "回报需看对照",
+      "kind": "tension",
+      "detail": "本次分析：要判断方法有效，应比较执行条件、失败样本与回报分布，而不只看最后留下的赢家。",
+      "provenance": "本次分析",
+      "status": "解释性关系，非实证因果"
+    },
+    {
+      "source": "survivor",
+      "target": "models",
+      "label": "选择成功者的偏差",
+      "kind": "tension",
+      "detail": "本次分析：要判断方法有效，应比较执行条件、失败样本与回报分布，而不只看最后留下的赢家。",
+      "provenance": "本次分析",
+      "status": "解释性关系，非实证因果"
+    },
+    {
+      "source": "rational",
+      "target": "life-love",
+      "label": "领域边界",
+      "kind": "support",
+      "detail": "本次分析：关系评价必须包括另一方的自主性和长期互动；单方自由不能自动替代共同责任。",
+      "provenance": "本次分析",
+      "status": "解释性关系，非实证因果"
+    },
+    {
+      "source": "rick",
+      "target": "life-view",
+      "label": "虚构中的视角",
+      "kind": "group",
+      "detail": "本次分析：扩大视角可以暴露原先默认的价值前提，让既有目标有机会被重新理解。",
+      "provenance": "本次分析",
+      "status": "组织关系"
+    },
+    {
+      "source": "quests",
+      "target": "life-exp",
+      "label": "目标完成后继续",
+      "kind": "support",
+      "detail": "本次分析：目标不是永久终点；完成后重新观察兴趣、能力与责任，才可能找到新的行动理由。",
+      "provenance": "本次分析",
+      "status": "解释性关系，非实证因果"
+    },
+    {
+      "source": "hundred",
+      "target": "h-long",
+      "label": "时间需要身体支撑",
+      "kind": "support",
+      "detail": "本次分析：长时间尺度可以改变学习与积累的权重，但同时需要支持系统与可持续节奏。",
+      "provenance": "本次分析",
+      "status": "解释性关系，非实证因果"
+    },
+    {
+      "source": "models",
+      "target": "life-view",
+      "label": "能力分别借鉴",
+      "kind": "support",
+      "detail": "本次分析：先识别具体能力与情境，再比较自己的约束；可迁移的是方法，无法复制的是全部历史条件。",
+      "provenance": "本次分析",
+      "status": "解释性关系，非实证因果"
+    },
+    {
+      "source": "chance",
+      "target": "life-create",
+      "label": "经历可能形成作品",
+      "kind": "hypothesis",
+      "detail": "本次分析：机会可使已有能力遇到新问题；积累使人有能力响应机会，两者共同作用。",
+      "provenance": "本次分析",
+      "status": "解释性关系，非实证因果"
+    },
+    {
+      "source": "rest",
+      "target": "life-create",
+      "label": "恢复也有价值",
+      "kind": "feedback",
+      "detail": "本次分析：经历提供素材，休息提供恢复，创造又整理经历；它们可以交替而非互相排斥。",
+      "provenance": "本次分析",
+      "status": "解释性关系，非实证因果"
+    },
+    {
+      "source": "ethics",
+      "target": "life-exp",
+      "label": "体验仍需责任",
+      "kind": "tension",
+      "detail": "本次分析：个人体验需要与责任、伤害和公共后果一起评价，才能成为较完整的行为准则。",
+      "provenance": "本次分析",
+      "status": "解释性关系，非实证因果"
+    },
+    {
+      "source": "metaphor",
+      "target": "h-server",
+      "label": "设备类比有局限",
+      "kind": "tension",
+      "detail": "本次分析：比喻适合帮助提出问题；把它当作推理时，必须说明对应关系、遗漏因素和失效位置。",
+      "provenance": "本次分析",
+      "status": "解释性关系，非实证因果"
+    },
+    {
+      "source": "metaphor",
+      "target": "rational",
+      "label": "关系无法简化",
+      "kind": "tension",
+      "detail": "本次分析：比喻适合帮助提出问题；把它当作推理时，必须说明对应关系、遗漏因素和失效位置。",
+      "provenance": "本次分析",
+      "status": "解释性关系，非实证因果"
+    },
+    {
+      "source": "agency",
+      "target": "cog-os",
+      "label": "认知影响选择",
+      "kind": "support",
+      "detail": "本次分析：把中间环节展开，才能看到哪一步被证据支持、哪一步只是希望成立。",
+      "provenance": "本次分析",
+      "status": "解释性关系，非实证因果"
+    },
+    {
+      "source": "agency",
+      "target": "poor",
+      "label": "现实条件约束",
+      "kind": "tension",
+      "detail": "本次分析：把中间环节展开，才能看到哪一步被证据支持、哪一步只是希望成立。",
+      "provenance": "本次分析",
+      "status": "解释性关系，非实证因果"
+    },
+    {
+      "source": "agency",
+      "target": "chance",
+      "label": "结果包含偶然性",
+      "kind": "support",
+      "detail": "本次分析：把中间环节展开，才能看到哪一步被证据支持、哪一步只是希望成立。",
+      "provenance": "本次分析",
+      "status": "解释性关系，非实证因果"
+    },
+    {
+      "source": "verify",
+      "target": "trust",
+      "label": "可信度依赖检查",
+      "kind": "support",
+      "detail": "本次分析：当搜索更便宜，注意力可能转到问题选择、证据检查和证明质量。瓶颈是否迁移要按任务检验。",
+      "provenance": "本次分析",
+      "status": "解释性关系，非实证因果"
+    },
+    {
+      "source": "context",
+      "target": "biz-digital",
+      "label": "保存不等于训练",
+      "kind": "tension",
+      "detail": "本次分析：文档保存是外部记忆，读取让资料进入当前上下文；模型参数训练则是另一种过程。",
+      "provenance": "本次分析",
+      "status": "解释性关系，非实证因果"
+    },
+    {
+      "source": "option",
+      "target": "w-loop",
+      "label": "条件反馈",
+      "kind": "support",
+      "detail": "本次分析：选择权让人在环境变化后可调整；稳定投入则可能积累信任、技能和长期协作。",
+      "provenance": "本次分析",
+      "status": "解释性关系，非实证因果"
+    },
+    {
+      "source": "rest",
+      "target": "h-long",
+      "label": "可持续节奏",
+      "kind": "support",
+      "detail": "本次分析：经历提供素材，休息提供恢复，创造又整理经历；它们可以交替而非互相排斥。",
+      "provenance": "本次分析",
+      "status": "解释性关系，非实证因果"
+    },
+    {
+      "source": "cog",
+      "target": "sun",
+      "label": "概念展开",
+      "kind": "group",
+      "detail": "访谈把对金钱、技术与人生选择的认知升级统称为“孙学”。这是嘉宾的个人框架，不能按学术理论处理。",
+      "provenance": "本次分析",
+      "status": "组织关系"
+    },
+    {
+      "source": "health",
+      "target": "body",
+      "label": "概念展开",
+      "kind": "group",
+      "detail": "主持人的薄肌概念把训练、外形与健康联系起来，嘉宾进一步把它纳入长期人生规划。",
+      "provenance": "本次分析",
+      "status": "组织关系"
+    },
+    {
+      "source": "ai",
+      "target": "trust",
+      "label": "概念展开",
+      "kind": "group",
+      "detail": "嘉宾既说百分百相信 AI，也说保留个人判断、调优并询问多个模型。",
+      "provenance": "本次分析",
+      "status": "组织关系"
+    },
+    {
+      "source": "ai",
+      "target": "context",
+      "label": "概念展开",
+      "kind": "group",
+      "detail": "保存资料供新模型读取，可以延续工作背景；字幕里“训练好”的通俗说法容易混淆技术机制。",
+      "provenance": "本次分析",
+      "status": "组织关系"
+    },
+    {
+      "source": "ai",
+      "target": "lowcost",
+      "label": "概念展开",
+      "kind": "group",
+      "detail": "嘉宾把手机、低价工具与已有资料作为起点，试图降低必须先投入大量资金的门槛。",
+      "provenance": "本次分析",
+      "status": "组织关系"
+    },
+    {
+      "source": "dec",
+      "target": "interest",
+      "label": "概念展开",
+      "kind": "group",
+      "detail": "在广泛追踪技术后，嘉宾又要求结合个人兴趣，选择一个方向深入钻研。",
+      "provenance": "本次分析",
+      "status": "组织关系"
+    },
+    {
+      "source": "dec",
+      "target": "iterate",
+      "label": "概念展开",
+      "kind": "group",
+      "detail": "访谈反复强调根据新记录和反馈调整，决策并非一次完成。",
+      "provenance": "本次分析",
+      "status": "组织关系"
+    },
+    {
+      "source": "health",
+      "target": "young",
+      "label": "概念展开",
+      "kind": "group",
+      "detail": "嘉宾认为技术降低许多成本后，更长的可行动时间成为年轻人的优势。",
+      "provenance": "本次分析",
+      "status": "组织关系"
+    },
+    {
+      "source": "ai",
+      "target": "verify",
+      "label": "概念展开",
+      "kind": "group",
+      "detail": "获得研究思路、理解思路、验证思路和发现新知识不能合并成一个步骤。",
+      "provenance": "本次分析",
+      "status": "组织关系"
+    },
+    {
+      "source": "ai",
+      "target": "sciencebound",
+      "label": "概念展开",
+      "kind": "group",
+      "detail": "访谈从数学与天文数据推向快速突破甚至“人均诺奖”，其论证跨度很大。",
+      "provenance": "本次分析",
+      "status": "组织关系"
+    },
+    {
+      "source": "biz",
+      "target": "bio",
+      "label": "概念展开",
+      "kind": "group",
+      "detail": "嘉宾把 AI 与生物研究的组合列为潜在机会，关注数据分析对发现速度的影响。",
+      "provenance": "本次分析",
+      "status": "组织关系"
+    },
+    {
+      "source": "biz",
+      "target": "supply",
+      "label": "概念展开",
+      "kind": "group",
+      "detail": "全球市场的机会被解释为不同地区的需求与供给尚未充分连接。",
+      "provenance": "本次分析",
+      "status": "组织关系"
+    },
+    {
+      "source": "biz",
+      "target": "token",
+      "label": "概念展开",
+      "kind": "group",
+      "detail": "嘉宾用地区定价差异和中转服务说明商业想法，这是案例叙述。",
+      "provenance": "本次分析",
+      "status": "组织关系"
+    },
+    {
+      "source": "dec",
+      "target": "info",
+      "label": "概念展开",
+      "kind": "group",
+      "detail": "调查应按是否改善后续选择评价，而不是按收集数量评价。",
+      "provenance": "本次分析",
+      "status": "组织关系"
+    },
+    {
+      "source": "dec",
+      "target": "irreversible",
+      "label": "概念展开",
+      "kind": "group",
+      "detail": "重投入会减少纠错空间，因此先降低关键不确定性更有必要。",
+      "provenance": "本次分析",
+      "status": "组织关系"
+    },
+    {
+      "source": "wealth",
+      "target": "option",
+      "label": "概念展开",
+      "kind": "group",
+      "detail": "逐水草而居强调保留改变路线的能力，但稳定关系和地方积累也可能创造价值。",
+      "provenance": "本次分析",
+      "status": "组织关系"
+    },
+    {
+      "source": "wealth",
+      "target": "financial",
+      "label": "概念展开",
+      "kind": "group",
+      "detail": "“财富自由”在访谈里同时指资金覆盖生活和不受旧观念限制，需要拆开。",
+      "provenance": "本次分析",
+      "status": "组织关系"
+    },
+    {
+      "source": "biz",
+      "target": "banana",
+      "label": "概念展开",
+      "kind": "group",
+      "detail": "嘉宾用 Comedian 说明价值可来自概念、传播和身份，而不只来自实物材料。",
+      "provenance": "本次分析",
+      "status": "组织关系"
+    },
+    {
+      "source": "biz",
+      "target": "ip",
+      "label": "概念展开",
+      "kind": "group",
+      "detail": "公开表达和符号传播能让作品被更多人接触，但传播与回报之间还隔着转化机制。",
+      "provenance": "本次分析",
+      "status": "组织关系"
+    },
+    {
+      "source": "biz",
+      "target": "media",
+      "label": "概念展开",
+      "kind": "group",
+      "detail": "自媒体降低发布门槛，使更多个体参与叙述；信息质量仍取决于证据与平台激励。",
+      "provenance": "本次分析",
+      "status": "组织关系"
+    },
+    {
+      "source": "cog",
+      "target": "motive",
+      "label": "概念展开",
+      "kind": "group",
+      "detail": "被猜测的动机不能直接证明主张真假，但利益关系仍影响材料的解读方式。",
+      "provenance": "本次分析",
+      "status": "组织关系"
+    },
+    {
+      "source": "wealth",
+      "target": "assets",
+      "label": "概念展开",
+      "kind": "group",
+      "detail": "嘉宾将偏向 Crypto 的资产路线解释为技术认知选择，是个人自述。",
+      "provenance": "本次分析",
+      "status": "组织关系"
+    },
+    {
+      "source": "cog",
+      "target": "ego",
+      "label": "概念展开",
+      "kind": "group",
+      "detail": "旧经验既能加快判断，也可能使人把过去奏效的方法当作永恒规则。",
+      "provenance": "本次分析",
+      "status": "组织关系"
+    },
+    {
+      "source": "cog",
+      "target": "skills",
+      "label": "概念展开",
+      "kind": "group",
+      "detail": "访谈以英雄操作和游戏版本区分把事情做好与选择正确事情。",
+      "provenance": "本次分析",
+      "status": "组织关系"
+    },
+    {
+      "source": "dec",
+      "target": "poor",
+      "label": "概念展开",
+      "kind": "group",
+      "detail": "较少既有投入可能降低换路成本，但贫穷本身仍限制可承受的试错。",
+      "provenance": "本次分析",
+      "status": "组织关系"
+    },
+    {
+      "source": "cog",
+      "target": "survivor",
+      "label": "概念展开",
+      "kind": "group",
+      "detail": "访谈大量以成功人物说明观点，容易忽略采取类似路线却没有成功的人。",
+      "provenance": "本次分析",
+      "status": "组织关系"
+    },
+    {
+      "source": "life",
+      "target": "rational",
+      "label": "概念展开",
+      "kind": "group",
+      "detail": "商业中可比较的收益成本，并不能完整表示关系中的承诺、信任与双方需求。",
+      "provenance": "本次分析",
+      "status": "组织关系"
+    },
+    {
+      "source": "life",
+      "target": "rick",
+      "label": "概念展开",
+      "kind": "group",
+      "detail": "节目借虚构叙事说明世界与体验可以有不同视角，这是哲学讨论的素材。",
+      "provenance": "本次分析",
+      "status": "组织关系"
+    },
+    {
+      "source": "life",
+      "target": "quests",
+      "label": "概念展开",
+      "kind": "group",
+      "detail": "当一个财富目标完成，人生仍可通过新领域和不同体验设立后续方向。",
+      "provenance": "本次分析",
+      "status": "组织关系"
+    },
+    {
+      "source": "life",
+      "target": "hundred",
+      "label": "概念展开",
+      "kind": "group",
+      "detail": "嘉宾用百年创业表达持续探索的愿景，强调不把既有成就当终点。",
+      "provenance": "本次分析",
+      "status": "组织关系"
+    },
+    {
+      "source": "life",
+      "target": "models",
+      "label": "概念展开",
+      "kind": "group",
+      "detail": "工程、投资、传播等能力可以从不同人物身上分别学习，不要求全面认同。",
+      "provenance": "本次分析",
+      "status": "组织关系"
+    },
+    {
+      "source": "life",
+      "target": "chance",
+      "label": "概念展开",
+      "kind": "group",
+      "detail": "访谈通过李煜、诺贝尔和运动员家庭，讨论成果并非总由预先规划产生。",
+      "provenance": "本次分析",
+      "status": "组织关系"
+    },
+    {
+      "source": "life",
+      "target": "rest",
+      "label": "概念展开",
+      "kind": "group",
+      "detail": "节目后段明确承认消费和休息能够为创造恢复精力，避免百分之百创造。",
+      "provenance": "本次分析",
+      "status": "组织关系"
+    },
+    {
+      "source": "life",
+      "target": "ethics",
+      "label": "概念展开",
+      "kind": "group",
+      "detail": "体验提供生活方向，却尚不足以回答自由与他人权益冲突时应如何选择。",
+      "provenance": "本次分析",
+      "status": "组织关系"
+    },
+    {
+      "source": "cog",
+      "target": "metaphor",
+      "label": "概念展开",
+      "kind": "group",
+      "detail": "操作系统、游戏、服务器和积分等比喻把复杂话题连起来，也可能掩盖它们的差异。",
+      "provenance": "本次分析",
+      "status": "组织关系"
+    },
+    {
+      "source": "cog",
+      "target": "agency",
+      "label": "概念展开",
+      "kind": "group",
+      "detail": "认知可能改变选择，选择又影响行动；最终结果还受资源、环境与偶然性约束。",
+      "provenance": "本次分析",
+      "status": "组织关系"
+    }
+  ],
+  "clusters": [
+    {
+      "id": "cog",
+      "title": "认知升级",
+      "color": "#2dd4bf",
+      "description": "认知不是结论，而是需要随环境更新的操作系统。"
+    },
+    {
+      "id": "ai",
+      "title": "AI 与知识",
+      "color": "#a78bfa",
+      "description": "AI 降低信息处理成本；个人经验需要能被工具接续。"
+    },
+    {
+      "id": "dec",
+      "title": "决策与探索",
+      "color": "#60a5fa",
+      "description": "先看清地图再投入资源，并保留向新机会迁移的空间。"
+    },
+    {
+      "id": "biz",
+      "title": "商业与技术",
+      "color": "#fb923c",
+      "description": "发现真实需求，连接全球供需；区块链与机器支付是案例。"
+    },
+    {
+      "id": "wealth",
+      "title": "财富与自由",
+      "color": "#fbbf24",
+      "description": "财富是反馈和资源；自由首先指能够自主选择与移动。"
+    },
+    {
+      "id": "health",
+      "title": "健康与复利",
+      "color": "#4ade80",
+      "description": "身体状态影响持续行动、体验和长期积累。"
+    },
+    {
+      "id": "life",
+      "title": "体验与创造",
+      "color": "#f472b6",
+      "description": "人生没有统一的终局答案，体验可以转化成新的理解和创造。"
+    }
+  ],
+  "trails": [
+    {
+      "name": "认知学习循环",
+      "emoji": "🧠",
+      "nodes": [
+        "ai-life",
+        "ai-memory",
+        "cog-os",
+        "dec-map",
+        "life-view",
+        "cog-os"
+      ],
+      "description": "获取信息—积累证据—更新判断—探索世界—获得新视角—再次更新。"
+    },
+    {
+      "name": "财富与自由循环",
+      "emoji": "💰",
+      "nodes": [
+        "dec-world",
+        "biz-value",
+        "w-feedback",
+        "w-first",
+        "dec-move",
+        "dec-world"
+      ],
+      "description": "发现全球价值缺口—创造价值—获得市场反馈—扩大自主权—寻找下一次机会。"
+    },
+    {
+      "name": "健康长期循环",
+      "emoji": "🌱",
+      "nodes": [
+        "h-logs",
+        "h-prevent",
+        "h-long",
+        "life-exp",
+        "cog-os"
+      ],
+      "description": "记录健康—主动管理—维持长期行动—获得更多体验—形成新认知。"
+    },
+    {
+      "name": "体验与创造循环",
+      "emoji": "🎭",
+      "nodes": [
+        "w-first",
+        "life-exp",
+        "life-view",
+        "life-create",
+        "cog-os"
+      ],
+      "description": "有选择权—扩大体验—换视角—转化为创造—反哺认知。"
+    },
+    {
+      "name": "技术演进假设",
+      "emoji": "⚙️",
+      "nodes": [
+        "biz-digital",
+        "ai-science",
+        "biz-crypto",
+        "biz-agent"
+      ],
+      "description": "知识数字化、AI 进步及机器支付被嘉宾串联，但最后一段属于未来预测。"
+    }
+  ]
+}

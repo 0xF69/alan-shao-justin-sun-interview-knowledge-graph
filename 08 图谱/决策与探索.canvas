@@ -1,0 +1,32 @@
+{
+	"nodes":[
+		{"id":"dec","type":"file","file":"01 主题/决策与探索.md","x":500,"y":-430,"width":940,"height":340,"color":"#60a5fa"},
+		{"id":"dec-map","type":"file","file":"02 概念/先探地图.md","x":0,"y":0,"width":430,"height":450,"color":"#60a5fa"},
+		{"id":"dec-test","type":"file","file":"02 概念/低成本先验证.md","x":500,"y":0,"width":430,"height":450,"color":"#60a5fa"},
+		{"id":"dec-world","type":"file","file":"02 概念/全球视野.md","x":1000,"y":0,"width":430,"height":450,"color":"#60a5fa"},
+		{"id":"dec-move","type":"file","file":"02 概念/逐水草而居.md","x":1500,"y":0,"width":430,"height":450,"color":"#60a5fa"},
+		{"id":"interest","type":"file","file":"02 概念/兴趣、专长与长期投入.md","x":0,"y":560,"width":430,"height":450,"color":"#60a5fa"},
+		{"id":"iterate","type":"file","file":"02 概念/反馈、调优与停止条件.md","x":500,"y":560,"width":430,"height":450,"color":"#60a5fa"},
+		{"id":"info","type":"file","file":"02 概念/信息价值与调查边界.md","x":1000,"y":560,"width":430,"height":450,"color":"#60a5fa"},
+		{"id":"irreversible","type":"file","file":"02 概念/不可逆投入与小规模试验.md","x":1500,"y":560,"width":430,"height":450,"color":"#60a5fa"},
+		{"id":"poor","type":"file","file":"02 概念/低起点、灵活性与真实约束.md","x":0,"y":1120,"width":430,"height":450,"color":"#60a5fa"}
+	],
+	"edges":[
+		{"id":"edge-12","fromNode":"dec","fromSide":"bottom","toNode":"dec-map","toSide":"top","toEnd":"arrow","label":"主题归属 · 具体观点","color":"#8391a5"},
+		{"id":"edge-13","fromNode":"dec","fromSide":"bottom","toNode":"dec-test","toSide":"top","toEnd":"arrow","label":"主题归属 · 具体观点","color":"#8391a5"},
+		{"id":"edge-14","fromNode":"dec","fromSide":"bottom","toNode":"dec-world","toSide":"top","toEnd":"arrow","label":"主题归属 · 具体观点","color":"#8391a5"},
+		{"id":"edge-15","fromNode":"dec","fromSide":"bottom","toNode":"dec-move","toSide":"top","toEnd":"arrow","label":"主题归属 · 具体观点","color":"#8391a5"},
+		{"id":"edge-44","fromNode":"dec-map","fromSide":"bottom","toNode":"dec-test","toSide":"top","toEnd":"arrow","label":"因果推论（未验证） · 先信息后投入","color":"#8391a5"},
+		{"id":"edge-71","fromNode":"interest","fromSide":"bottom","toNode":"dec-world","toSide":"top","toEnd":"arrow","label":"支撑关系 · 按兴趣筛选","color":"#8391a5"},
+		{"id":"edge-72","fromNode":"iterate","fromSide":"bottom","toNode":"dec-test","toSide":"top","toEnd":"arrow","label":"支撑关系 · 需要停止条件","color":"#8391a5"},
+		{"id":"edge-79","fromNode":"info","fromSide":"bottom","toNode":"dec-map","toSide":"top","toEnd":"arrow","label":"支撑关系 · 决定调查强度","color":"#8391a5"},
+		{"id":"edge-80","fromNode":"info","fromSide":"bottom","toNode":"irreversible","toSide":"top","toEnd":"arrow","label":"支撑关系 · 损失提高信息价值","color":"#8391a5"},
+		{"id":"edge-81","fromNode":"irreversible","fromSide":"bottom","toNode":"dec-test","toSide":"top","toEnd":"arrow","label":"支撑关系 · 保留纠错空间","color":"#8391a5"},
+		{"id":"edge-96","fromNode":"poor","fromSide":"bottom","toNode":"dec-move","toSide":"top","toEnd":"arrow","label":"边界或张力 · 灵活但缺缓冲","color":"#ef7777"},
+		{"id":"edge-121","fromNode":"dec","fromSide":"bottom","toNode":"interest","toSide":"top","toEnd":"arrow","label":"主题归属 · 概念展开","color":"#8391a5"},
+		{"id":"edge-122","fromNode":"dec","fromSide":"bottom","toNode":"iterate","toSide":"top","toEnd":"arrow","label":"主题归属 · 概念展开","color":"#8391a5"},
+		{"id":"edge-129","fromNode":"dec","fromSide":"bottom","toNode":"info","toSide":"top","toEnd":"arrow","label":"主题归属 · 概念展开","color":"#8391a5"},
+		{"id":"edge-130","fromNode":"dec","fromSide":"bottom","toNode":"irreversible","toSide":"top","toEnd":"arrow","label":"主题归属 · 概念展开","color":"#8391a5"},
+		{"id":"edge-140","fromNode":"dec","fromSide":"bottom","toNode":"poor","toSide":"top","toEnd":"arrow","label":"主题归属 · 概念展开","color":"#8391a5"}
+	]
+}

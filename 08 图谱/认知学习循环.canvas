@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"ai-life","type":"file","file":"02 概念/生活 AI 化.md","x":0,"y":0,"width":440,"height":520,"color":"#a78bfa"},
+		{"id":"ai-memory","type":"file","file":"02 概念/MD 与可迁移记录.md","x":520,"y":0,"width":440,"height":520,"color":"#a78bfa"},
+		{"id":"cog-os","type":"file","file":"02 概念/认知操作系统.md","x":1040,"y":0,"width":440,"height":520,"color":"#2dd4bf"},
+		{"id":"dec-map","type":"file","file":"02 概念/先探地图.md","x":1560,"y":0,"width":440,"height":520,"color":"#60a5fa"},
+		{"id":"life-view","type":"file","file":"02 概念/换视角与榜样.md","x":2080,"y":0,"width":440,"height":520,"color":"#f472b6"},
+		{"id":"explain","type":"text","text":"# 认知学习循环\n\n获取信息—积累证据—更新判断—探索世界—获得新视角—再次更新。\n\n这是一条解释性阅读路径。反馈可能中断或反转，不能将箭头理解为必然因果。","x":0,"y":-360,"width":2600,"height":280}
+	],
+	"edges":[
+		{"id":"edge-0","fromNode":"ai-life","fromSide":"bottom","toNode":"ai-memory","toSide":"top","toEnd":"arrow","label":"支撑关系 · 阅读路径","color":"#8391a5"},
+		{"id":"edge-1","fromNode":"ai-memory","fromSide":"bottom","toNode":"cog-os","toSide":"top","toEnd":"arrow","label":"支撑关系 · 阅读路径","color":"#8391a5"},
+		{"id":"edge-2","fromNode":"cog-os","fromSide":"bottom","toNode":"dec-map","toSide":"top","toEnd":"arrow","label":"支撑关系 · 阅读路径","color":"#8391a5"},
+		{"id":"edge-3","fromNode":"dec-map","fromSide":"bottom","toNode":"life-view","toSide":"top","toEnd":"arrow","label":"支撑关系 · 阅读路径","color":"#8391a5"},
+		{"id":"edge-4","fromNode":"life-view","fromSide":"bottom","toNode":"cog-os","toSide":"top","toEnd":"arrow","label":"支撑关系 · 阅读路径","color":"#8391a5"}
+	]
+}

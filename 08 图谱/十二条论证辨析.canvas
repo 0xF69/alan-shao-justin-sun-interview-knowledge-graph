@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"debate-0","type":"file","file":"05 辨析/01 认知能否独自解释命运.md","x":0,"y":0,"width":490,"height":540,"color":"#da7373"},
+		{"id":"debate-1","type":"file","file":"05 辨析/02 相信AI与保留判断能否一致.md","x":570,"y":0,"width":490,"height":540,"color":"#da7373"},
+		{"id":"debate-2","type":"file","file":"05 辨析/03 抵抗嘲笑怎样避免固执.md","x":1140,"y":0,"width":490,"height":540,"color":"#da7373"},
+		{"id":"debate-3","type":"file","file":"05 辨析/04 先探图为何不能无限调查.md","x":1710,"y":0,"width":490,"height":540,"color":"#da7373"},
+		{"id":"debate-4","type":"file","file":"05 辨析/05 全球价差为何不等于利润.md","x":0,"y":630,"width":490,"height":540,"color":"#da7373"},
+		{"id":"debate-5","type":"file","file":"05 辨析/06 机器支付为何不指定代币赢家.md","x":570,"y":630,"width":490,"height":540,"color":"#da7373"},
+		{"id":"debate-6","type":"file","file":"05 辨析/07 财富反馈为何不是全部价值.md","x":1140,"y":630,"width":490,"height":540,"color":"#da7373"},
+		{"id":"debate-7","type":"file","file":"05 辨析/08 先自由后财富是否偷换定义.md","x":1710,"y":630,"width":490,"height":540,"color":"#da7373"},
+		{"id":"debate-8","type":"file","file":"05 辨析/09 身体服务器比喻何处失效.md","x":0,"y":1260,"width":490,"height":540,"color":"#da7373"},
+		{"id":"debate-9","type":"file","file":"05 辨析/10 数字化为何不保证知识进入模型.md","x":570,"y":1260,"width":490,"height":540,"color":"#da7373"},
+		{"id":"debate-10","type":"file","file":"05 辨析/11 体验如何与责任和意义相连.md","x":1140,"y":1260,"width":490,"height":540,"color":"#da7373"},
+		{"id":"debate-11","type":"file","file":"05 辨析/12 多创造少消费怎样避免单一尺度.md","x":1710,"y":1260,"width":490,"height":540,"color":"#da7373"}
+	],
+	"edges":[]
+}

@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"dec-world","type":"file","file":"02 概念/全球视野.md","x":0,"y":0,"width":440,"height":520,"color":"#60a5fa"},
+		{"id":"biz-value","type":"file","file":"02 概念/创造真实价值.md","x":520,"y":0,"width":440,"height":520,"color":"#fb923c"},
+		{"id":"w-feedback","type":"file","file":"02 概念/金钱是反馈.md","x":1040,"y":0,"width":440,"height":520,"color":"#fbbf24"},
+		{"id":"w-first","type":"file","file":"02 概念/先自由后财富.md","x":1560,"y":0,"width":440,"height":520,"color":"#fbbf24"},
+		{"id":"dec-move","type":"file","file":"02 概念/逐水草而居.md","x":2080,"y":0,"width":440,"height":520,"color":"#60a5fa"},
+		{"id":"explain","type":"text","text":"# 财富与自由循环\n\n发现全球价值缺口—创造价值—获得市场反馈—扩大自主权—寻找下一次机会。\n\n这是一条解释性阅读路径。反馈可能中断或反转，不能将箭头理解为必然因果。","x":0,"y":-360,"width":2600,"height":280}
+	],
+	"edges":[
+		{"id":"edge-0","fromNode":"dec-world","fromSide":"bottom","toNode":"biz-value","toSide":"top","toEnd":"arrow","label":"支撑关系 · 阅读路径","color":"#8391a5"},
+		{"id":"edge-1","fromNode":"biz-value","fromSide":"bottom","toNode":"w-feedback","toSide":"top","toEnd":"arrow","label":"支撑关系 · 阅读路径","color":"#8391a5"},
+		{"id":"edge-2","fromNode":"w-feedback","fromSide":"bottom","toNode":"w-first","toSide":"top","toEnd":"arrow","label":"支撑关系 · 阅读路径","color":"#8391a5"},
+		{"id":"edge-3","fromNode":"w-first","fromSide":"bottom","toNode":"dec-move","toSide":"top","toEnd":"arrow","label":"支撑关系 · 阅读路径","color":"#8391a5"},
+		{"id":"edge-4","fromNode":"dec-move","fromSide":"bottom","toNode":"dec-world","toSide":"top","toEnd":"arrow","label":"支撑关系 · 阅读路径","color":"#8391a5"}
+	]
+}

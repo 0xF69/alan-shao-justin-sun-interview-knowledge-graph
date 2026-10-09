@@ -1,0 +1,336 @@
+{
+  "nodes": [
+    {
+      "id": "life",
+      "type": "file",
+      "file": "01 主题/体验与创造.md",
+      "x": 500,
+      "y": -430,
+      "width": 940,
+      "height": 340,
+      "color": "#f472b6"
+    },
+    {
+      "id": "life-love",
+      "type": "file",
+      "file": "02 概念/关系的独立性.md",
+      "x": 0,
+      "y": 0,
+      "width": 430,
+      "height": 450,
+      "color": "#f472b6"
+    },
+    {
+      "id": "life-exp",
+      "type": "file",
+      "file": "02 概念/体验大于终局.md",
+      "x": 500,
+      "y": 0,
+      "width": 430,
+      "height": 450,
+      "color": "#f472b6"
+    },
+    {
+      "id": "life-view",
+      "type": "file",
+      "file": "02 概念/换视角与榜样.md",
+      "x": 1000,
+      "y": 0,
+      "width": 430,
+      "height": 450,
+      "color": "#f472b6"
+    },
+    {
+      "id": "life-create",
+      "type": "file",
+      "file": "02 概念/多创造，少消费.md",
+      "x": 1500,
+      "y": 0,
+      "width": 430,
+      "height": 450,
+      "color": "#f472b6"
+    },
+    {
+      "id": "rational",
+      "type": "file",
+      "file": "02 概念/商业效率与关系责任.md",
+      "x": 0,
+      "y": 560,
+      "width": 430,
+      "height": 450,
+      "color": "#f472b6"
+    },
+    {
+      "id": "rick",
+      "type": "file",
+      "file": "02 概念/瑞克和莫蒂与视角样本.md",
+      "x": 500,
+      "y": 560,
+      "width": 430,
+      "height": 450,
+      "color": "#f472b6"
+    },
+    {
+      "id": "quests",
+      "type": "file",
+      "file": "02 概念/支线任务与目标重设.md",
+      "x": 1000,
+      "y": 560,
+      "width": 430,
+      "height": 450,
+      "color": "#f472b6"
+    },
+    {
+      "id": "hundred",
+      "type": "file",
+      "file": "02 概念/创业一百年与长期边界.md",
+      "x": 1500,
+      "y": 560,
+      "width": 430,
+      "height": 450,
+      "color": "#f472b6"
+    },
+    {
+      "id": "models",
+      "type": "file",
+      "file": "02 概念/选择性借鉴与公众人物榜样.md",
+      "x": 0,
+      "y": 1120,
+      "width": 430,
+      "height": 450,
+      "color": "#f472b6"
+    },
+    {
+      "id": "chance",
+      "type": "file",
+      "file": "02 概念/经历、积累与偶然性.md",
+      "x": 500,
+      "y": 1120,
+      "width": 430,
+      "height": 450,
+      "color": "#f472b6"
+    },
+    {
+      "id": "rest",
+      "type": "file",
+      "file": "02 概念/消费、恢复与创造节奏.md",
+      "x": 1000,
+      "y": 1120,
+      "width": 430,
+      "height": 450,
+      "color": "#f472b6"
+    },
+    {
+      "id": "ethics",
+      "type": "file",
+      "file": "02 概念/体验论的伦理边界.md",
+      "x": 1500,
+      "y": 1120,
+      "width": 430,
+      "height": 450,
+      "color": "#f472b6"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge-32",
+      "fromNode": "life",
+      "fromSide": "bottom",
+      "toNode": "life-love",
+      "toSide": "top",
+      "toEnd": "arrow",
+      "label": "主题归属 · 具体观点",
+      "color": "#8391a5"
+    },
+    {
+      "id": "edge-33",
+      "fromNode": "life",
+      "fromSide": "bottom",
+      "toNode": "life-exp",
+      "toSide": "top",
+      "toEnd": "arrow",
+      "label": "主题归属 · 具体观点",
+      "color": "#8391a5"
+    },
+    {
+      "id": "edge-34",
+      "fromNode": "life",
+      "fromSide": "bottom",
+      "toNode": "life-view",
+      "toSide": "top",
+      "toEnd": "arrow",
+      "label": "主题归属 · 具体观点",
+      "color": "#8391a5"
+    },
+    {
+      "id": "edge-35",
+      "fromNode": "life",
+      "fromSide": "bottom",
+      "toNode": "life-create",
+      "toSide": "top",
+      "toEnd": "arrow",
+      "label": "主题归属 · 具体观点",
+      "color": "#8391a5"
+    },
+    {
+      "id": "edge-57",
+      "fromNode": "life-exp",
+      "fromSide": "bottom",
+      "toNode": "life-create",
+      "toSide": "top",
+      "toEnd": "arrow",
+      "label": "因果推论（未验证） · 经验转化作品",
+      "color": "#8391a5"
+    },
+    {
+      "id": "edge-99",
+      "fromNode": "rational",
+      "fromSide": "bottom",
+      "toNode": "life-love",
+      "toSide": "top",
+      "toEnd": "arrow",
+      "label": "支撑关系 · 领域边界",
+      "color": "#8391a5"
+    },
+    {
+      "id": "edge-100",
+      "fromNode": "rick",
+      "fromSide": "bottom",
+      "toNode": "life-view",
+      "toSide": "top",
+      "toEnd": "arrow",
+      "label": "主题归属 · 虚构中的视角",
+      "color": "#8391a5"
+    },
+    {
+      "id": "edge-101",
+      "fromNode": "quests",
+      "fromSide": "bottom",
+      "toNode": "life-exp",
+      "toSide": "top",
+      "toEnd": "arrow",
+      "label": "支撑关系 · 目标完成后继续",
+      "color": "#8391a5"
+    },
+    {
+      "id": "edge-103",
+      "fromNode": "models",
+      "fromSide": "bottom",
+      "toNode": "life-view",
+      "toSide": "top",
+      "toEnd": "arrow",
+      "label": "支撑关系 · 能力分别借鉴",
+      "color": "#8391a5"
+    },
+    {
+      "id": "edge-104",
+      "fromNode": "chance",
+      "fromSide": "bottom",
+      "toNode": "life-create",
+      "toSide": "top",
+      "toEnd": "arrow",
+      "label": "假设（需新增证据） · 经历可能形成作品",
+      "color": "#c59fea"
+    },
+    {
+      "id": "edge-105",
+      "fromNode": "rest",
+      "fromSide": "bottom",
+      "toNode": "life-create",
+      "toSide": "top",
+      "toEnd": "arrow",
+      "label": "反馈关系 · 恢复也有价值",
+      "color": "#8391a5"
+    },
+    {
+      "id": "edge-106",
+      "fromNode": "ethics",
+      "fromSide": "bottom",
+      "toNode": "life-exp",
+      "toSide": "top",
+      "toEnd": "arrow",
+      "label": "边界或张力 · 体验仍需责任",
+      "color": "#ef7777"
+    },
+    {
+      "id": "edge-142",
+      "fromNode": "life",
+      "fromSide": "bottom",
+      "toNode": "rational",
+      "toSide": "top",
+      "toEnd": "arrow",
+      "label": "主题归属 · 概念展开",
+      "color": "#8391a5"
+    },
+    {
+      "id": "edge-143",
+      "fromNode": "life",
+      "fromSide": "bottom",
+      "toNode": "rick",
+      "toSide": "top",
+      "toEnd": "arrow",
+      "label": "主题归属 · 概念展开",
+      "color": "#8391a5"
+    },
+    {
+      "id": "edge-144",
+      "fromNode": "life",
+      "fromSide": "bottom",
+      "toNode": "quests",
+      "toSide": "top",
+      "toEnd": "arrow",
+      "label": "主题归属 · 概念展开",
+      "color": "#8391a5"
+    },
+    {
+      "id": "edge-145",
+      "fromNode": "life",
+      "fromSide": "bottom",
+      "toNode": "hundred",
+      "toSide": "top",
+      "toEnd": "arrow",
+      "label": "主题归属 · 概念展开",
+      "color": "#8391a5"
+    },
+    {
+      "id": "edge-146",
+      "fromNode": "life",
+      "fromSide": "bottom",
+      "toNode": "models",
+      "toSide": "top",
+      "toEnd": "arrow",
+      "label": "主题归属 · 概念展开",
+      "color": "#8391a5"
+    },
+    {
+      "id": "edge-147",
+      "fromNode": "life",
+      "fromSide": "bottom",
+      "toNode": "chance",
+      "toSide": "top",
+      "toEnd": "arrow",
+      "label": "主题归属 · 概念展开",
+      "color": "#8391a5"
+    },
+    {
+      "id": "edge-148",
+      "fromNode": "life",
+      "fromSide": "bottom",
+      "toNode": "rest",
+      "toSide": "top",
+      "toEnd": "arrow",
+      "label": "主题归属 · 概念展开",
+      "color": "#8391a5"
+    },
+    {
+      "id": "edge-149",
+      "fromNode": "life",
+      "fromSide": "bottom",
+      "toNode": "ethics",
+      "toSide": "top",
+      "toEnd": "arrow",
+      "label": "主题归属 · 概念展开",
+      "color": "#8391a5"
+    }
+  ]
+}

@@ -1,0 +1,296 @@
+{
+  "nodes": [
+    {
+      "id": "cog",
+      "type": "file",
+      "file": "01 主题/认知升级.md",
+      "x": 500,
+      "y": -430,
+      "width": 940,
+      "height": 340,
+      "color": "#2dd4bf"
+    },
+    {
+      "id": "cog-os",
+      "type": "file",
+      "file": "02 概念/认知操作系统.md",
+      "x": 0,
+      "y": 0,
+      "width": 430,
+      "height": 450,
+      "color": "#2dd4bf"
+    },
+    {
+      "id": "cog-ego",
+      "type": "file",
+      "file": "02 概念/保持“小我”.md",
+      "x": 500,
+      "y": 0,
+      "width": 430,
+      "height": 450,
+      "color": "#2dd4bf"
+    },
+    {
+      "id": "cog-huang",
+      "type": "file",
+      "file": "02 概念/黄毛思维.md",
+      "x": 1000,
+      "y": 0,
+      "width": 430,
+      "height": 450,
+      "color": "#2dd4bf"
+    },
+    {
+      "id": "cog-humility",
+      "type": "file",
+      "file": "02 概念/不急于定终局.md",
+      "x": 1500,
+      "y": 0,
+      "width": 430,
+      "height": 450,
+      "color": "#2dd4bf"
+    },
+    {
+      "id": "sun",
+      "type": "file",
+      "file": "02 概念/孙学与个人框架.md",
+      "x": 0,
+      "y": 560,
+      "width": 430,
+      "height": 450,
+      "color": "#2dd4bf"
+    },
+    {
+      "id": "motive",
+      "type": "file",
+      "file": "02 概念/事实、动机、效果与利益关系.md",
+      "x": 500,
+      "y": 560,
+      "width": 430,
+      "height": 450,
+      "color": "#2dd4bf"
+    },
+    {
+      "id": "ego",
+      "type": "file",
+      "file": "02 概念/既有成功、身份与路径依赖.md",
+      "x": 1000,
+      "y": 560,
+      "width": 430,
+      "height": 450,
+      "color": "#2dd4bf"
+    },
+    {
+      "id": "skills",
+      "type": "file",
+      "file": "02 概念/局部技能与系统理解.md",
+      "x": 1500,
+      "y": 560,
+      "width": 430,
+      "height": 450,
+      "color": "#2dd4bf"
+    },
+    {
+      "id": "survivor",
+      "type": "file",
+      "file": "02 概念/成功案例与幸存者偏差.md",
+      "x": 0,
+      "y": 1120,
+      "width": 430,
+      "height": 450,
+      "color": "#2dd4bf"
+    },
+    {
+      "id": "metaphor",
+      "type": "file",
+      "file": "02 概念/统一比喻的解释力与局限.md",
+      "x": 500,
+      "y": 1120,
+      "width": 430,
+      "height": 450,
+      "color": "#2dd4bf"
+    },
+    {
+      "id": "agency",
+      "type": "file",
+      "file": "02 概念/信息、判断、行动与结果.md",
+      "x": 1000,
+      "y": 1120,
+      "width": 430,
+      "height": 450,
+      "color": "#2dd4bf"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge-2",
+      "fromNode": "cog",
+      "fromSide": "bottom",
+      "toNode": "cog-os",
+      "toSide": "top",
+      "toEnd": "arrow",
+      "label": "主题归属 · 具体观点",
+      "color": "#8391a5"
+    },
+    {
+      "id": "edge-3",
+      "fromNode": "cog",
+      "fromSide": "bottom",
+      "toNode": "cog-ego",
+      "toSide": "top",
+      "toEnd": "arrow",
+      "label": "主题归属 · 具体观点",
+      "color": "#8391a5"
+    },
+    {
+      "id": "edge-4",
+      "fromNode": "cog",
+      "fromSide": "bottom",
+      "toNode": "cog-huang",
+      "toSide": "top",
+      "toEnd": "arrow",
+      "label": "主题归属 · 具体观点",
+      "color": "#8391a5"
+    },
+    {
+      "id": "edge-5",
+      "fromNode": "cog",
+      "fromSide": "bottom",
+      "toNode": "cog-humility",
+      "toSide": "top",
+      "toEnd": "arrow",
+      "label": "主题归属 · 具体观点",
+      "color": "#8391a5"
+    },
+    {
+      "id": "edge-42",
+      "fromNode": "cog-ego",
+      "fromSide": "bottom",
+      "toNode": "cog-os",
+      "toSide": "top",
+      "toEnd": "arrow",
+      "label": "反馈关系 · 允许推翻旧判断",
+      "color": "#8391a5"
+    },
+    {
+      "id": "edge-43",
+      "fromNode": "cog-huang",
+      "fromSide": "bottom",
+      "toNode": "cog-ego",
+      "toSide": "top",
+      "toEnd": "arrow",
+      "label": "边界或张力 · 存在张力",
+      "color": "#ef7777"
+    },
+    {
+      "id": "edge-65",
+      "fromNode": "sun",
+      "fromSide": "bottom",
+      "toNode": "cog-os",
+      "toSide": "top",
+      "toEnd": "arrow",
+      "label": "主题归属 · 框架实例",
+      "color": "#8391a5"
+    },
+    {
+      "id": "edge-93",
+      "fromNode": "ego",
+      "fromSide": "bottom",
+      "toNode": "cog-ego",
+      "toSide": "top",
+      "toEnd": "arrow",
+      "label": "边界或张力 · 身份阻碍纠错",
+      "color": "#ef7777"
+    },
+    {
+      "id": "edge-94",
+      "fromNode": "skills",
+      "fromSide": "bottom",
+      "toNode": "cog-os",
+      "toSide": "top",
+      "toEnd": "arrow",
+      "label": "支撑关系 · 环境决定技能适用",
+      "color": "#8391a5"
+    },
+    {
+      "id": "edge-109",
+      "fromNode": "agency",
+      "fromSide": "bottom",
+      "toNode": "cog-os",
+      "toSide": "top",
+      "toEnd": "arrow",
+      "label": "支撑关系 · 认知影响选择",
+      "color": "#8391a5"
+    },
+    {
+      "id": "edge-116",
+      "fromNode": "cog",
+      "fromSide": "bottom",
+      "toNode": "sun",
+      "toSide": "top",
+      "toEnd": "arrow",
+      "label": "主题归属 · 概念展开",
+      "color": "#8391a5"
+    },
+    {
+      "id": "edge-136",
+      "fromNode": "cog",
+      "fromSide": "bottom",
+      "toNode": "motive",
+      "toSide": "top",
+      "toEnd": "arrow",
+      "label": "主题归属 · 概念展开",
+      "color": "#8391a5"
+    },
+    {
+      "id": "edge-138",
+      "fromNode": "cog",
+      "fromSide": "bottom",
+      "toNode": "ego",
+      "toSide": "top",
+      "toEnd": "arrow",
+      "label": "主题归属 · 概念展开",
+      "color": "#8391a5"
+    },
+    {
+      "id": "edge-139",
+      "fromNode": "cog",
+      "fromSide": "bottom",
+      "toNode": "skills",
+      "toSide": "top",
+      "toEnd": "arrow",
+      "label": "主题归属 · 概念展开",
+      "color": "#8391a5"
+    },
+    {
+      "id": "edge-141",
+      "fromNode": "cog",
+      "fromSide": "bottom",
+      "toNode": "survivor",
+      "toSide": "top",
+      "toEnd": "arrow",
+      "label": "主题归属 · 概念展开",
+      "color": "#8391a5"
+    },
+    {
+      "id": "edge-150",
+      "fromNode": "cog",
+      "fromSide": "bottom",
+      "toNode": "metaphor",
+      "toSide": "top",
+      "toEnd": "arrow",
+      "label": "主题归属 · 概念展开",
+      "color": "#8391a5"
+    },
+    {
+      "id": "edge-151",
+      "fromNode": "cog",
+      "fromSide": "bottom",
+      "toNode": "agency",
+      "toSide": "top",
+      "toEnd": "arrow",
+      "label": "主题归属 · 概念展开",
+      "color": "#8391a5"
+    }
+  ]
+}

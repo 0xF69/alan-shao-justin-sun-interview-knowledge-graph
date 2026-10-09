@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"wealth","type":"file","file":"01 主题/财富与自由.md","x":500,"y":-430,"width":940,"height":340,"color":"#fbbf24"},
+		{"id":"w-feedback","type":"file","file":"02 概念/金钱是反馈.md","x":0,"y":0,"width":430,"height":450,"color":"#fbbf24"},
+		{"id":"w-first","type":"file","file":"02 概念/先自由后财富.md","x":500,"y":0,"width":430,"height":450,"color":"#fbbf24"},
+		{"id":"w-loop","type":"file","file":"02 概念/自由—财富飞轮.md","x":1000,"y":0,"width":430,"height":450,"color":"#fbbf24"},
+		{"id":"w-amplify","type":"file","file":"02 概念/财富是放大器.md","x":1500,"y":0,"width":430,"height":450,"color":"#fbbf24"},
+		{"id":"option","type":"file","file":"02 概念/选择权、稳定性与迁移成本.md","x":0,"y":560,"width":430,"height":450,"color":"#fbbf24"},
+		{"id":"financial","type":"file","file":"02 概念/财务独立与认知自主.md","x":500,"y":560,"width":430,"height":450,"color":"#fbbf24"},
+		{"id":"assets","type":"file","file":"02 概念/技术判断与集中资产配置.md","x":1000,"y":560,"width":430,"height":450,"color":"#fbbf24"}
+	],
+	"edges":[
+		{"id":"edge-22","fromNode":"wealth","fromSide":"bottom","toNode":"w-feedback","toSide":"top","toEnd":"arrow","label":"主题归属 · 具体观点","color":"#8391a5"},
+		{"id":"edge-23","fromNode":"wealth","fromSide":"bottom","toNode":"w-first","toSide":"top","toEnd":"arrow","label":"主题归属 · 具体观点","color":"#8391a5"},
+		{"id":"edge-24","fromNode":"wealth","fromSide":"bottom","toNode":"w-loop","toSide":"top","toEnd":"arrow","label":"主题归属 · 具体观点","color":"#8391a5"},
+		{"id":"edge-25","fromNode":"wealth","fromSide":"bottom","toNode":"w-amplify","toSide":"top","toEnd":"arrow","label":"主题归属 · 具体观点","color":"#8391a5"},
+		{"id":"edge-49","fromNode":"w-first","fromSide":"bottom","toNode":"w-loop","toSide":"top","toEnd":"arrow","label":"因果推论（未验证） · 扩大机会","color":"#8391a5"},
+		{"id":"edge-83","fromNode":"option","fromSide":"bottom","toNode":"financial","toSide":"top","toEnd":"arrow","label":"支撑关系 · 拆开自由定义","color":"#8391a5"},
+		{"id":"edge-84","fromNode":"financial","fromSide":"bottom","toNode":"w-first","toSide":"top","toEnd":"arrow","label":"边界或张力 · 不同自由概念","color":"#ef7777"},
+		{"id":"edge-114","fromNode":"option","fromSide":"bottom","toNode":"w-loop","toSide":"top","toEnd":"arrow","label":"支撑关系 · 条件反馈","color":"#8391a5"},
+		{"id":"edge-131","fromNode":"wealth","fromSide":"bottom","toNode":"option","toSide":"top","toEnd":"arrow","label":"主题归属 · 概念展开","color":"#8391a5"},
+		{"id":"edge-132","fromNode":"wealth","fromSide":"bottom","toNode":"financial","toSide":"top","toEnd":"arrow","label":"主题归属 · 概念展开","color":"#8391a5"},
+		{"id":"edge-137","fromNode":"wealth","fromSide":"bottom","toNode":"assets","toSide":"top","toEnd":"arrow","label":"主题归属 · 概念展开","color":"#8391a5"}
+	]
+}

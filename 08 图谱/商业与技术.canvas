@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"id":"biz","type":"file","file":"01 主题/商业与技术.md","x":500,"y":-430,"width":940,"height":340,"color":"#fb923c"},
+		{"id":"biz-value","type":"file","file":"02 概念/创造真实价值.md","x":0,"y":0,"width":430,"height":450,"color":"#fb923c"},
+		{"id":"biz-crypto","type":"file","file":"02 概念/机器可读的货币.md","x":500,"y":0,"width":430,"height":450,"color":"#fb923c"},
+		{"id":"biz-agent","type":"file","file":"02 概念/AI Agent 支付.md","x":1000,"y":0,"width":430,"height":450,"color":"#fb923c"},
+		{"id":"biz-digital","type":"file","file":"02 概念/数字化与传播.md","x":1500,"y":0,"width":430,"height":450,"color":"#fb923c"},
+		{"id":"bio","type":"file","file":"02 概念/AI 与生命科学的技术组合.md","x":0,"y":560,"width":430,"height":450,"color":"#fb923c"},
+		{"id":"supply","type":"file","file":"02 概念/全球供需连接与价值缺口.md","x":500,"y":560,"width":430,"height":450,"color":"#fb923c"},
+		{"id":"token","type":"file","file":"02 概念/Token 中转案例与条件.md","x":1000,"y":560,"width":430,"height":450,"color":"#fb923c"},
+		{"id":"banana","type":"file","file":"02 概念/香蕉艺术品与符号价值.md","x":1500,"y":560,"width":430,"height":450,"color":"#fb923c"},
+		{"id":"ip","type":"file","file":"02 概念/注意力、数字 IP 与变现.md","x":0,"y":1120,"width":430,"height":450,"color":"#fb923c"},
+		{"id":"media","type":"file","file":"02 概念/表达权分散与信息质量.md","x":500,"y":1120,"width":430,"height":450,"color":"#fb923c"}
+	],
+	"edges":[
+		{"id":"edge-17","fromNode":"biz","fromSide":"bottom","toNode":"biz-value","toSide":"top","toEnd":"arrow","label":"主题归属 · 具体观点","color":"#8391a5"},
+		{"id":"edge-18","fromNode":"biz","fromSide":"bottom","toNode":"biz-crypto","toSide":"top","toEnd":"arrow","label":"主题归属 · 具体观点","color":"#8391a5"},
+		{"id":"edge-19","fromNode":"biz","fromSide":"bottom","toNode":"biz-agent","toSide":"top","toEnd":"arrow","label":"主题归属 · 具体观点","color":"#8391a5"},
+		{"id":"edge-20","fromNode":"biz","fromSide":"bottom","toNode":"biz-digital","toSide":"top","toEnd":"arrow","label":"主题归属 · 具体观点","color":"#8391a5"},
+		{"id":"edge-60","fromNode":"biz-crypto","fromSide":"bottom","toNode":"biz-agent","toSide":"top","toEnd":"arrow","label":"假设（需新增证据） · 未来支付设施？","color":"#c59fea"},
+		{"id":"edge-77","fromNode":"supply","fromSide":"bottom","toNode":"biz-value","toSide":"top","toEnd":"arrow","label":"支撑关系 · 需求转为交付","color":"#8391a5"},
+		{"id":"edge-78","fromNode":"token","fromSide":"bottom","toNode":"supply","toSide":"top","toEnd":"arrow","label":"主题归属 · 案例","color":"#8391a5"},
+		{"id":"edge-85","fromNode":"banana","fromSide":"bottom","toNode":"ip","toSide":"top","toEnd":"arrow","label":"支撑关系 · 符号与传播","color":"#8391a5"},
+		{"id":"edge-87","fromNode":"ip","fromSide":"bottom","toNode":"biz-digital","toSide":"top","toEnd":"arrow","label":"支撑关系 · 保存与传播","color":"#8391a5"},
+		{"id":"edge-89","fromNode":"media","fromSide":"bottom","toNode":"biz-digital","toSide":"top","toEnd":"arrow","label":"支撑关系 · 表达门槛降低","color":"#8391a5"},
+		{"id":"edge-126","fromNode":"biz","fromSide":"bottom","toNode":"bio","toSide":"top","toEnd":"arrow","label":"主题归属 · 概念展开","color":"#8391a5"},
+		{"id":"edge-127","fromNode":"biz","fromSide":"bottom","toNode":"supply","toSide":"top","toEnd":"arrow","label":"主题归属 · 概念展开","color":"#8391a5"},
+		{"id":"edge-128","fromNode":"biz","fromSide":"bottom","toNode":"token","toSide":"top","toEnd":"arrow","label":"主题归属 · 概念展开","color":"#8391a5"},
+		{"id":"edge-133","fromNode":"biz","fromSide":"bottom","toNode":"banana","toSide":"top","toEnd":"arrow","label":"主题归属 · 概念展开","color":"#8391a5"},
+		{"id":"edge-134","fromNode":"biz","fromSide":"bottom","toNode":"ip","toSide":"top","toEnd":"arrow","label":"主题归属 · 概念展开","color":"#8391a5"},
+		{"id":"edge-135","fromNode":"biz","fromSide":"bottom","toNode":"media","toSide":"top","toEnd":"arrow","label":"主题归属 · 概念展开","color":"#8391a5"}
+	]
+}

@@ -11,7 +11,7 @@
 1. 下载仓库 ZIP 并解压，或运行：
 
    ```bash
-   git clone https://github.com/0xF69/sungemode-knowledge-graph.git
+   git clone https://github.com/0xF69/alan-shao-justin-sun-interview-knowledge-graph.git
    ```
 
 2. 在 Obsidian 中选择「打开文件夹作为仓库」，打开下载后的文件夹。
